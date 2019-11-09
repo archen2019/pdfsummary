@@ -41,12 +41,12 @@ infants are better language learners than adults. Successful learning by infants
 
 constraints on that learning, are changing theories of language acquisition.
 
-The acquisition of language and speech seems decep-
-tively simple. Young children learn their mother tongue
+The acquisition of language and speech seems deceptively
+simple. Young children learn their mother tongue
 rapidly and effortlessly, from babbling at 6 months of age
 to full sentences by the age of 3 years, and follow the same
-developmental path regardless of culture (FIG.1). Ling-
-uists, psychologists and neuroscientists have struggled to
+developmental path regardless of culture (FIG.1). Linguists,
+psychologists and neuroscientists have struggled to
 explain how children do this,and why it is so regular if
 the mechanism of acquisition depends on learning and
 environmental input. This puzzle, coupled with the
@@ -66,8 +66,8 @@ Infants approach language with a set of initial perceptual
 abilities that are necessary for language acquisition,
 although not unique to humans. They then learn rapidly
 from exposure to language, in ways that are unique to
-humans,combining pattern detection and computa-
-tional abilities (often called STATISTICAL LEARNING ) With
+humans,combining pattern detection and computational
+abilities (often called STATISTICAL LEARNING ) With
 special social skills. An absence of early exposure to the
 
 patterns that are inherent in natural language —
@@ -83,8 +83,8 @@ from a neurobiological perspective, social constraints
 limit the settings in which learning occurs. The fact that
 infants are ‘primed’ to learn the regularities of linguistic
 input when engaged in social exchanges puts language
-in a neurobiological framework that resembles commu-
-nicative learning in other species, such as songbirds, and
+in a neurobiological framework that resembles communicative
+learning in other species, such as songbirds, and
 helps us to address why non-human animals do not
 advance further towards language. The constraints on
 infants’ abilities to perceive and learn are as important
@@ -219,14 +219,14 @@ which change the meaning of a word (for example,
 from ‘bat’ to ‘pat’). These phonemes are actually groups
 of non-identical sounds, called prHoNETIC UNITS, that are
 functionally equivalent in the language. The infant’s task
-is to make some progress in figuring out the composi-
-tion of the 40 or so phonemic categories before trying to
+is to make some progress in figuring out the composition
+of the 40 or so phonemic categories before trying to
 acquire words on which these elementary units depend.
 Three early discoveries inform us about the nature of
 the innate skills that infants bring to the task of phonetic
 learning and about the timeline of early learning. The
-first, called categorical perception, focused on discrimi-
-nation of the acoustic events that distinguish phonetic
+first, called categorical perception, focused on discrimination
+of the acoustic events that distinguish phonetic
 units (80X 1)2. Eimas and colleagues showed that young
 infants are especially sensitive to acoustic changes at the
 phonetic boundaries between categories, including
@@ -234,22 +234,22 @@ those of languages they have never heard**. Infants can
 discriminate among virtually all the phonetic units used
 in languages, whereas adults cannot’. The acoustic
 differences on which this depends are tiny. A change of
-10 ms in the time domain changes /b/ to /p/,and equiva-
-lently small differences in the frequency domain change
+10 ms in the time domain changes /b/ to /p/,and equivalently
+small differences in the frequency domain change
 /p/ to /k/ (REF.8). Infants can discriminate these subtle
 differences from birth, and this ability is essential for the
 
 acquisition of language. However, categorical perception
 also shows that infant perception is constrained. Infants
-do not discriminate all physically equal acoustic differ-
-ences; they show heightened sensitivity to those that are
+do not discriminate all physically equal acoustic differences;
+they show heightened sensitivity to those that are
 important for language.
 
 Although categorical perception is a building block
 for language, it is not unique to humans. Non-human
 mammals — such as chinchillas and monkeys — also
-partition sounds where languages place phonetic bound-
-aries™!!. In humans, non-speech sounds that mimic the
+partition sounds where languages place phonetic boundaries™!!.
+In humans, non-speech sounds that mimic the
 acoustic properties of speech are also partitioned in
 this way'>1%. I have previously argued that the match
 between basic auditory perception and the acoustic
@@ -261,8 +261,8 @@ languages'*!>. The development of these languages
 capitalized on natural auditory discontinuities. However,
 the basic cuts provided by audition are primitive, and
 only roughly partition sounds. The exact locations of
-phonetic boundaries differ across languages, and expo-
-sure to a specific language sharpens infants’ perception
+phonetic boundaries differ across languages, and exposure
+to a specific language sharpens infants’ perception
 of stimuli near phonetic boundaries in that language'®'”.
 According to this argument, auditory perception, a
 domain-general skill, initially constrained choices at the
@@ -276,8 +276,8 @@ are used in language, infants must learn to perceptually
 group different sounds that they clearly hear as distinct
 (Box 2). This is the problem of carecorizarion'®. In a
 natural environment, infants hear sounds that vary
-on many dimensions (for example, talker, rate and pho-
-netic context). At an early age,infants can categorize
+on many dimensions (for example, talker, rate and phonetic
+context). At an early age,infants can categorize
 
 832 [ NOVEMBER 2004 [ VOLUME 5
 
@@ -312,8 +312,8 @@ identified as the same — the Japanese ‘r’.
 listeners, and they are asked to identify the sound pairs as
 
 speech sounds despite such changes'*%*. By contrast,
-computers are, so far, unable to recognize phonetic simi-
-larity in this way*. This is a necessary skill if infants are to
+computers are, so far, unable to recognize phonetic similarity
+in this way*. This is a necessary skill if infants are to
 imitate speech and learn their ‘mother tongue™.
 
 Infants’ initial universal ability to distinguish
@@ -323,8 +323,8 @@ phonetic units ‘r’ and ‘I’ are combined into a single
 phonemic category (Japanese ‘r’), whereas in English,
 the difference is preserved (‘rake’ and ‘lake’); similarly, in
 English, two Spanish phonetic units (distinguishing
-‘bala’ from ‘pala’) are united in a single phonemic cate-
-gory. Infants can initially distinguish these sounds**,
+‘bala’ from ‘pala’) are united in a single phonemic category.
+Infants can initially distinguish these sounds**,
 and Werker and colleagues investigated when the infant
 ‘citizens of the world’ become ‘culture-bound’ listeners™.
 They showed that English-learning infants could easily
@@ -340,12 +340,12 @@ which is used in English. At the same time, the ability
 of infants to discriminate native-language phonetic
 units improves®*#2%,
 
-Computational strategies. What mechanism is responsi-
-ble for the developmental change in phonetic perception
+Computational strategies. What mechanism is responsible
+for the developmental change in phonetic perception
 between the ages of 6 and 12 months? One hypothesis is
 that infants analyse the statistical distributions of sounds
-that they hear in ambient language. Although adult listen-
-ers hear ‘r’ and ‘I’ as either distinct (English speakers) or
+that they hear in ambient language. Although adult listeners
+hear ‘r’ and ‘I’ as either distinct (English speakers) or
 
 2
 3
@@ -362,8 +362,8 @@ T T
 
 12 3 4 5 6 7 8 9 10 11 1213
 Stimulus number
-100 ) -
-| © American
+100 ) |
+© American
 90 i © Japanese
 
 80
@@ -390,9 +390,9 @@ whereas English uses 10 and Japanese uses only 5 (REFS
 range of sounds™®. It is the distributional patterns of such
 sounds that differ across languages”*. When the acoustic
 features of speech are analysed, modal values occur where
-languages place phonemic categories, whereas distribu-
-tional frequencies are low at the borders between cate-
-gories. So, distributional patterns of sounds provide clues
+languages place phonemic categories, whereas distributional
+frequencies are low at the borders between categories.
+So, distributional patterns of sounds provide clues
 about the phonemic structure of a language®*. If infants
 are sensitive to the relative distributional frequencies of
 phonetic segments in the language that they hear,and
@@ -401,11 +401,11 @@ them, this would assist ‘category learning’.
 
 Experiments on 6-month-old infants indicate that
 this is the case (FIG.2). Kuhl and colleagues* tested
-6-month-old American and Swedish infants with proto-
-type vowel sounds from both languages (FIG.2a). Both the
+6-month-old American and Swedish infants with prototype
+vowel sounds from both languages (FIG.2a). Both the
 American-English prototype and the Swedish prototype
-were synthesized by computer and, by varying the criti-
-cal acoustic components in small steps, 32 variants of
+were synthesized by computer and, by varying the critical
+acoustic components in small steps, 32 variants of
 each prototype were created. The infants listened to the
 prototype vowel (either English or Swedish) presented as
 the background stimulus,and were trained to respond
@@ -484,8 +484,8 @@ the American vowel variants together, but treated the
 Swedish vowels as less unified. Swedish infants reversed
 the pattern, perceptually grouping the Swedish variants
 more than the American vowel stimuli. The results were
-assumed to reflect infants’ sensitivities to the distri-
-butional properties of sounds in their language®.
+assumed to reflect infants’ sensitivities to the distributional
+properties of sounds in their language®.
 Interestingly, monkeys did not show a prototype magnet
 effect for vowels*, indicating that the effect in humans
 was unique, and required linguistic experience.
@@ -506,14 +506,14 @@ language input after short-term exposure to phonetic
 stimuli (FIG.2). Maye and colleagues* exposed 6- and
 8-month-old infants for about 2 min to 8 sounds that
 formed a series (FIG.2d). Infants were familiarized with
-stimuli on the entire continuum, but experienced differ-
-ent distributional frequencies. A ‘bimodal’ group heard
+stimuli on the entire continuum, but experienced different
+distributional frequencies. A ‘bimodal’ group heard
 more frequent presentations of stimuli at the ends of the
 continuum; a ‘unimodal’ group heard more frequent
-presentations of stimuli from the middle of the contin-
-uum. After familiarization, infants were tested using a
-listening preference technique (FIG.2e). The results sup-
-ported the hypothesis that infants at this age are sensitive
+presentations of stimuli from the middle of the continuum.
+After familiarization, infants were tested using a
+listening preference technique (FIG.2e). The results supported
+the hypothesis that infants at this age are sensitive
 to distributional patterns (FIG.2f); infants in the bimodal
 group discriminated the two sounds, whereas those in the
 unimodal group did not. Further work on distributional
@@ -540,8 +540,8 @@ perceive the words as run together and spoken too
 quickly. Without any obvious boundaries, how can an
 infant discover where one word ends and another
 begins? Field linguists have spent decades attempting to
-identify the words used by speakers of a specific lan-
-guage. Children learn implicitly. By 18 months of age,
+identify the words used by speakers of a specific language.
+Children learn implicitly. By 18 months of age,
 75% of typically developing children understand about
 150 words and can successfully produce 50 words®.
 
@@ -639,8 +639,8 @@ REF.41 © (1992) American Association for the Advancement of Science. Panels d a
 with permission, from REF.40 (2002) © Elsevier Science.
 
 and ‘de’ (FIG.3a). Three groups of infants were tested, and
-the arrangement of the syllables ‘ko’ and ‘ga’ was manip-
-ulated across groups. For one group, they occurred in an
+the arrangement of the syllables ‘ko’ and ‘ga’ was manipulated
+across groups. For one group, they occurred in an
 invariant order, 'koga', with transitional probabilities of
 1.0 between two syllables, as would be the case if the
 unit formed a word. For the second group, the order of
@@ -715,8 +715,8 @@ are used*.
 
 prosopIC CUEs also help infants to identify potential
 word candidates and are prominent in natural speech.
-About 90% of English multisyllabic words in conver-
-sational speech begin with linguistic stress on the first
+About 90% of English multisyllabic words in conversational
+speech begin with linguistic stress on the first
 syllable, as in the words ‘pencil” and ‘stapler’ (REF.55).
 This strong-weak (trochaic) pattern is the opposite of
 that used in languages such as Polish, in which a weak—
@@ -784,8 +784,8 @@ They found that infants’ strategies change with age; at
 8 months, infants recover words from the strings on the
 basis of initial-word stress rather than statistical cues®’®.
 By contrast, at 7 months, they use statistical rather than
-prosodic cues®. How infants combine the two proba-
-bilistic cues, neither of which provides deterministic
+prosodic cues®. How infants combine the two probabilistic
+cues, neither of which provides deterministic
 information in natural speech, will be a fruitful topic for
 future investigation.
 
@@ -794,15 +794,15 @@ initial statistical strategies account for the acquisition
 of linguistic rules? At present, studies are focused on
 infants’ computational limitations; if infants detect
 statistical regularities only in adjacent units, they would
-be severely limited in acquiring linguistic rules by statis-
-tical means. Non-adjacent dependencies are essential for
+be severely limited in acquiring linguistic rules by statistical
+means. Non-adjacent dependencies are essential for
 detecting more complex relations, such as noun—verb
 agreement, and these specific relations are acquired only
 later in development®*!.
 
 Newport and colleagues® have shown that adults can
-detect non-adjacent dependencies in the kinds of sylla-
-ble strings used by Saffran when they involve segments
+detect non-adjacent dependencies in the kinds of syllable
+strings used by Saffran when they involve segments
 (consonants or vowels) but not syllables. By contrast,
 Old World monkeys can detect non-adjacent syllable
 dependencies and segmental ones that involve vowels,
@@ -826,8 +826,8 @@ listen to new words specifying the unfamiliar grammar,
 indicating that they had learned word-order rules from
 the grammar that they had previously experienced. The
 word items used during familiarization were not those
-used to test the infants, showing that infants can gener-
-alize their learning to a new set of words — they can
+used to test the infants, showing that infants can generalize
+their learning to a new set of words — they can
 learn abstract patterns that do not rely on memory for
 specific instances.
 
@@ -837,20 +837,20 @@ form,and that they can extend this pattern learning to
 new sequences, a skill that was argued to require learning
 of algebraic rules®*’. It has been proposed that infants
 compute two kinds of statistics, one arithmetic and the
-other algebraic®*’; however, experimentally differentiat-
-ing the two is difficult®®®. Further tests are required to
+other algebraic®*’; however, experimentally differentiating
+the two is difficult®®®. Further tests are required to
 determine whether infants are learning rules or statistical
 regularities in these studies.
 
 Social influences on language learning
 Computational learning indicates that infants learn
 simply by being exposed to the right kind of auditory
-information — even in a few minutes of auditory expo-
-sure in the laboratory*#’+. However, natural language
+information — even in a few minutes of auditory exposure
+in the laboratory*#’+. However, natural language
 learning might require more,and different, kinds of
 information. The results of two studies — one involving
-speech-perception learning and the other speech-
-production learning — indicate that social interaction
+speech-perception learning and the other speechproduction
+learning — indicate that social interaction
 assists language learning in complex settings. In both
 speech production and speech perception, the presence
 of a human being interacting with a child has a strong
@@ -862,22 +862,22 @@ The impact of social interaction on human language
 learning has been dramatically illustrated by the few
 instances in which children have been raised in social
 isolation; these cases have shown that social deprivation
-has a severe and negative impact on language develop-
-ment, to the extent that normal language skills are
+has a severe and negative impact on language development,
+to the extent that normal language skills are
 never acquired’. In children with autism, language and
 social deficits are tightly coupled — aberrant neural
 responses to speech are strongly correlated with an
 interest in listening to non-speech signals as opposed to
 speech signals™. Speech is strongly preferred in typically
 developing children™. Social deprivation, whether
-imposed by humans or caused by atypical brain func-
-tion, has a devastating effect on language acquisition.
-Theories of social learning in typically developing chil-
-dren have traditionally emphasized the importance of
+imposed by humans or caused by atypical brain function,
+has a devastating effect on language acquisition.
+Theories of social learning in typically developing children
+have traditionally emphasized the importance of
 social interaction on language learning’>"®. Recent data
 and theory posit that language learning is grounded in
-children’s appreciation of others’ communicative inten-
-tions, their sensitivity to joint visual attention and their
+children’s appreciation of others’ communicative intentions,
+their sensitivity to joint visual attention and their
 desire to imitate””.
 
 836 | NOVEMBER 2004 [ VOLUME 5
@@ -929,8 +929,8 @@ redundant order group served as a control. In all goups, the third syllable maki
 word-like unit was ‘de’. b | The head-turn testing procedure was used to test infants’ detection
 of a change from the syllable ‘de’ to the syllable ‘ti’ in all groups. ¢ | Only the invariant group
 performed above chance on the task, indicating that the infants in this group recognized ‘koga’
-as a word-like unit*’. d | A continuous stream of syllables used to test the detection of word-
-like stimuli that were created from four words (different colours), the syllable transitional
+as a word-like unit*’. d | A continuous stream of syllables used to test the detection of wordlike
+stimuli that were created from four words (different colours), the syllable transitional
 probabilities of which were 1.0. All other adjacent transitional probabilities were 0.33. e | After a
 2-min familiarization period, blinking lights above the side speakers were used to attract the
 infant’s attention. Once the infant’s head turned towards the light, either a word or a part-word
@@ -955,8 +955,8 @@ Nine-month-old American infants listened to four
 native speakers of Mandarin during 12 sessions in
 which the speakers read books to the infants and talked
 about toys that they showed to the infants (FIG.4a). After
-the sessions, infants were tested with a Mandarin pho-
-netic contrast that does not occur in English to see
+the sessions, infants were tested with a Mandarin phonetic
+contrast that does not occur in English to see
 whether exposure to the foreign language had reversed
 the usual decline in infants’ foreign-language speech
 perception (FIG.4b). The results showed that infants
@@ -971,8 +971,8 @@ available to the infants were identical in the televised
 and live settings, as was the use of ‘motherese’”*” Box 4). If
 simple auditory exposure to language prompts learning,
 
-the presence of a live human being would not be essen-
-tial. However, the infants’ Mandarin discrimination
+the presence of a live human being would not be essential.
+However, the infants’ Mandarin discrimination
 scores after exposure to televised or audiotaped speakers
 were no greater than those of the control infants; both
 groups differed significantly from the live-exposure
@@ -992,8 +992,8 @@ by smiling, moving closer to and touching their infants:
 these were the ‘contingent condition’ (CC) mothers.
 The other half of the mothers were ‘yoked controls’
 (YC) — their reactions were identical, but timed (by
-the experimenter’s instructions) to coincide with vocal-
-izations of infants in the CC group. Infants in the CC
+the experimenter’s instructions) to coincide with vocalizations
+of infants in the CC group. Infants in the CC
 group produced more vocalizations than infants in the
 YC group, and their vocalizations were more mature
 and adult-like (FIG.4e)*.
@@ -1007,8 +1007,8 @@ finch foster father who feeds them, even when adult
 zebra finch males can be heard nearby®. White crown
 sparrows, which reject the audiotaped songs of alien
 species, learn the same alien songs when they are sung
-by alive tutor®. In barn owls* and white-crowned spar-
-rows®, a richer social environment extends the duration
+by alive tutor®. In barn owls* and white-crowned sparrows®,
+a richer social environment extends the duration
 of the sensitive period for learning. Social contexts also
 advance song production in birds; male cowbirds
 respond to the social gestures and displays of females,
@@ -1022,8 +1022,8 @@ Blindfolded zebra finches that cannot see the tutor, but
 can interact through pecking and grooming, learn their
 songs. Moreover, young birds that have been operantly
 conditioned to present conspecific song to themselves
-by pressing a key learn the songs they hear®“, indicat-
-ing that active participation, attention and motivation
+by pressing a key learn the songs they hear®“, indicating
+that active participation, attention and motivation
 are important™.
 
 In the human infant foreign-language-learning
@@ -1032,8 +1032,8 @@ referential cues. Speakers often focused on pictures in
 the books or on the toys that they were talking about,
 and the infant’s gaze followed the speaker’s gaze, which
 is typical for infants at this age”'*?. Gaze-following to
-an object is an important predictor of receptive vocab-
-ulary®*}; perhaps joint visual attention to an object
+an object is an important predictor of receptive vocabulary®*};
+perhaps joint visual attention to an object
 that is being named also helps infants to segment
 words from ongoing speech.
 
@@ -1106,11 +1106,11 @@ For both infants and birds, it is unclear whether social
 interaction itself, or the attention and contingency that
 typically accompany social interaction, are crucial for
 learning. However, contingency has been shown to be an
-important component in human vocalization learn-
-ing®'#2 and reciprocity in adult-infant language can be
+important component in human vocalization learning®'#2
+and reciprocity in adult-infant language can be
 seen in infants’ tendency to alternate their vocalizations
-with those of an adult®**. The pervasive use of moth-
-erese (BOX 4) by adults is a social response that adjusts to
+with those of an adult®**. The pervasive use of motherese
+(BOX 4) by adults is a social response that adjusts to
 the needs of infant listeners®“”. For infants, early social
 awareness is a predictor of later language skills”.
 
@@ -1118,11 +1118,11 @@ Social interaction can be conceived of as gating
 computational learning, and thereby protecting infants
 from meaningless calculations’". The need for social
 interaction would ensure that learning focuses on
-speech that derives from humans in the child’s environ-
-ment, rather than on signals from other sources™*%°.
+speech that derives from humans in the child’s environment,
+rather than on signals from other sources™*%°.
 Social interaction might also be important for learning
-sign language; both deaf and hearing babies who experi-
-ence a natural sign language babble using their hands on
+sign language; both deaf and hearing babies who experience
+a natural sign language babble using their hands on
 the same schedule that hearing babies babble using their
 
 mouths'™. Constraints are evident when infants hear or
@@ -1143,14 +1143,14 @@ language and social cognition remains a mystery. The
 effects of social environments might be broad, general
 and ‘top-down’, and might engage special memory
 systems'*>!%. People engaged in social interaction are
-highly aroused and attentive — general arousal mecha-
-nisms might enhance our ability to learn and remember,
+highly aroused and attentive — general arousal mechanisms
+might enhance our ability to learn and remember,
 as well as prompting our most sophisticated language
 output. These effects could be mediated by hormones,
-which have been implicated in learning and song pro-
-duction in birds'*"'%®. On the other hand, learning
-might also involve more specific, bottom-up’ mecha-
-nisms attuned to the particular form and information
+which have been implicated in learning and song production
+in birds'*"'%®. On the other hand, learning
+might also involve more specific, bottom-up’ mechanisms
+attuned to the particular form and information
 content of social cues (such as eye gaze). Further studies
 are needed to understand how the social brain supports
 language learning.
@@ -1160,8 +1160,8 @@ Native language neural commitment
 A growing number of studies have confirmed the effects
 of language experience on the brain'®-'"7. The techniques
 used in these studies have recently been applied to infants
-and young children®**26!11812! For example, Dehaene-
-Lambertz and colleagues used functional MRI to measure
+and young children®**26!11812! For example, DehaeneLambertz
+and colleagues used functional MRI to measure
 the brain activity evoked by normal speech and speech
 played backwards in 3-month-old infants,and found that
 similar brain regions are active in adults and infants when
@@ -1180,13 +1180,13 @@ to future language learning'. According to NLNC,
 language learning produces dedicated neural networks
 that code the patterns of native-language speech. The
 hypothesis focuses on the aspects of language learned
-early — the statistical and prosodic regularities in lan-
-guage input that lead to phonetic and word learning —
+early — the statistical and prosodic regularities in language
+input that lead to phonetic and word learning —
 and how they influence the brain’s future ability to learn
 language. According to the theory, neural commitment
 to the statistical and prosodic regularities of one’s native
-language promotes the future use of these learned pat-
-terns in higher-order native-language computations. At
+language promotes the future use of these learned patterns
+in higher-order native-language computations. At
 the same time, NLNC interferes with the processing of
 foreign-language patterns that do not conform to those
 already learned.
@@ -1214,8 +1214,8 @@ _ Russian
 ¥ 4
 S 400-| 3,000 1t
 £ J - I\J \
-.. v\ = -
-100 [Canyou  say Hey you Say hi-i-i L 2000
+.. v\ = 100
+[Canyou  say Hey you Say hi-i-i L 2000
 | say ahh? ahhh hi-i-i Qo
 Time —> lal
 1,000
@@ -1267,23 +1267,23 @@ American Association for the Advancement of Science; panel ¢ modified, with
 permission, from REF. 96 © (2003) Blackwell Scientific Publishing.
 
 Evidence for the effects of NLNC in adults comes
-from magnetoencephalography (MEG): when pro-
-cessing foreign-language speech sounds, a larger area
+from magnetoencephalography (MEG): when processing
+foreign-language speech sounds, a larger area
 of the adult brain is activated for a longer time period
-than when processing native-language sounds, indi-
-cating neural inefficiency!!'!. This neural inefficiency
+than when processing native-language sounds, indicating
+neural inefficiency!!'!. This neural inefficiency
 for foreign-language information extends beyond
 
 speech — processing mathematical knowledge in a
-second language is also difficult'>*. In both cases, native-
-language strategies can interfere with information
+second language is also difficult'>*. In both cases, nativelanguage
+strategies can interfere with information
 processing in a foreign language'*.
 
 Regarding infants, the NLNC hypothesis predicts
 that an infant’s early skill in native-language phonetic
 perception should predict that child’s later success at
-language acquisition. This is because phonetic percep-
-tion promotes the detection of phonotactic patterns,
+language acquisition. This is because phonetic perception
+promotes the detection of phonotactic patterns,
 which advance word segmentation*'>'* and, once
 infants begin to associate words with objects — a task
 that challenges phonetic perception'?’'2* — those infants
@@ -1293,13 +1293,13 @@ abilities in infancy should ‘bootstrap’'?’ language
 learning, propelling infants to more sophisticated levels
 earlier in development. Behavioural studies support this
 hypothesis. Speech-discrimination skill in 6-month-old
-infants predicted their language scores (words under-
-stood, words produced and phrases understood) at
+infants predicted their language scores (words understood,
+words produced and phrases understood) at
 13,16 and 24 months'.
 
 Neural measures provide a sensitive measure of
-individual differences in speech perception. Event-
-related potentials (ERPs) have been used in infants and
+individual differences in speech perception. Eventrelated
+potentials (ERPs) have been used in infants and
 toddlers to measure neural responses to phonemes,
 words and sentences*""13!, Rivera-Gaxiola and
 colleagues recorded ERPs in typically developing
@@ -1324,8 +1324,8 @@ should reflect the degree to which the brain remains
 patterns. The degree to which an infant remains open to
 foreign-language speech (in the absence of exposure
 to a foreign language) should therefore signal slower
-language learning. As an open system reflects uncom-
-mitted circuitry, skill at discriminating foreign-language
+language learning. As an open system reflects uncommitted
+circuitry, skill at discriminating foreign-language
 phonetic units should provide an indirect measure of
 the brain’s degree of commitment to native-language
 patterns.
@@ -1335,8 +1335,8 @@ In one study, 7-month-old infants from monolingual
 homes were tested on both native and foreign-language
 contrasts using behavioral and ERP brain measures'®2.
 As predicted, excellent native-language speech perception,
-measured with behavioural or brain measures, corre-
-lated positively with later language skills, whereas
+measured with behavioural or brain measures, correlated
+positively with later language skills, whereas
 better foreign-language speech perception skills
 correlated negatively with later language skills.
 
@@ -1374,8 +1374,8 @@ learn language, the innate state must be altered by
 input and give way to NLNC.
 
 Neural commitment could be important in a ‘critical
-period’ or ‘sensitive period’'* for language acquisi-
-tion'**. Maturational factors are a powerful predictor
+period’ or ‘sensitive period’'* for language acquisition'**.
+Maturational factors are a powerful predictor
 of the acquisition of first and second languages'¥-1%.
 For example, deaf children born to hearing parents
 whose first exposure to sign language occurs after the
@@ -1399,8 +1399,8 @@ achieved'*!.
 If experience is an important driver of the sensitive
 period, as NLNC indicates, why do we not learn new
 languages as easily at 50 as at 5? What mechanism or
-process governs the decline in sensitivity with age? A sta-
-tistical process could govern the eventual closing of the
+process governs the decline in sensitivity with age? A statistical
+process could govern the eventual closing of the
 sensitive period. If infants represent the distribution of a
 particular vowel in language input, and are sensitive to
 the degree of variability in that distribution, the closing
@@ -1414,8 +1414,8 @@ deviant
 
 |
 
-Standard —-
-11-m N responders
+Standard —11-m
+N responders
 
 Foreign phonetic test:
 
@@ -1437,19 +1437,19 @@ positivities at 150-250 ms (P responders) or discriminatory negativities at 250-
 sub-groups increased their responsiveness to the native-language consonant contrast by 11 months of age.
 
 of the sensitive period would be cued by the stability of
-infants’ phonetic distributions. In early childhood, care-
-takers’ pronunciations would be overly represented in a
+infants’ phonetic distributions. In early childhood, caretakers’
+pronunciations would be overly represented in a
 child’s distribution of vowels. As experience with more
 speakers occurred, the distribution would change to
 reflect further variability. With continued experience,
-the distribution would begin to stabilize. Given the vari-
-ability in speech (BOX 2), this might require substantial
+the distribution would begin to stabilize. Given the variability
+in speech (BOX 2), this might require substantial
 listening experience. According to the hypothesis, when
 the ‘ah’ vowels of new speakers no longer cause a change
 in the underlying distribution, the sensitive period for
 phonetic learning would begin to close,and learning
-would decline. There are probably several sensitive peri-
-ods for various aspects of language, but similar principles
+would decline. There are probably several sensitive periods
+for various aspects of language, but similar principles
 could apply.
 
 In bilingual children, who hear two languages with
@@ -1459,8 +1459,8 @@ and studies are under way to test this hypothesis.
 Bilingual children are mapping two distinct systems,
 with some portion of the input they hear devoted
 to each language. At an early age neither language is
-statistically stable, and neither is therefore likely to inter-
-fere with the other, so young children can acquire two
+statistically stable, and neither is therefore likely to interfere
+with the other, so young children can acquire two
 languages easily.
 
 NLNC provides a mechanism that contributes to
@@ -1487,35 +1487,35 @@ In the first year of life, infants show avid learning of the
 information in language input. Infants learn implicitly
 when they hear complex, everyday language spoken in
 their homes, as well as in laboratories. By the age of 6
-months, infants’ experiences with the distributional pat-
-terns in ambient language have altered their perception
-of the phonetic units of speech. At 8 months, the sensi-
-tivity of infants to the statistical cues in speech allows
+months, infants’ experiences with the distributional patterns
+in ambient language have altered their perception
+of the phonetic units of speech. At 8 months, the sensitivity
+of infants to the statistical cues in speech allows
 them to segment words. At 9 months, infants can learn
-from exposure to a foreign language in natural infant-
-directed conversations, but not if the information is
+from exposure to a foreign language in natural infantdirected
+conversations, but not if the information is
 presented through a television or audiotape. Infants’
-successes in these experiments support specific hypothe-
-ses about mechanisms that explain how infant learning
+successes in these experiments support specific hypotheses
+about mechanisms that explain how infant learning
 occurs. They represent substantial advances in our
 understanding of language acquisition.
 
 At the same time, the data indicate that there are
-perceptual, computational, social and neural con-
-straints. Infants do not distinguish all possible physical
-differences in speech sounds — only those that under-
-lie phonetic distinctions®®. In word learning, infants
+perceptual, computational, social and neural constraints.
+Infants do not distinguish all possible physical
+differences in speech sounds — only those that underlie
+phonetic distinctions®®. In word learning, infants
 compute transitional probabilities that assist them in
-identifying potential words, but computational con-
-straints are also shown?*6:60.63.147.148 Moreover, when
+identifying potential words, but computational constraints
+are also shown?*6:60.63.147.148 Moreover, when
 learning natural language, constraints are seen in the
 potential need for a social, interactive human being*'*.
 Finally, learning produces a neural commitment to the
 patterns of an individual’s native language, and this
 constrains future success at acquiring a new language.
 
-The origins of these constraints on infants’ acquisi-
-tion of language are of interest to theorists. Tests on
+The origins of these constraints on infants’ acquisition
+of language are of interest to theorists. Tests on
 non-human species and in domains outside the field of
 language have led to the view that aspects of language
 
@@ -1535,8 +1535,8 @@ Concluding remarks
 
 Substantial progress has been made in understanding
 the initial phases of language acquisition. At all levels,
-language learning is constrained — perceptual ,computa-
-tional, social and neural constraints affect what can be
+language learning is constrained — perceptual ,computational,
+social and neural constraints affect what can be
 learned,and when. Learning results in native language
 neural commitment (NLNC). According to this model,
 computers and animals, while capable of some of the
@@ -1768,8 +1768,8 @@ Jusczyk, P, Luce, P. & Charles-Luce, J. Infants’ sensitivity to
 phonotactic patterns in the native language. J. Mem. Lang.
 33,630-645 (1994).
 
-This study found that 9-month-old infants, but not 6-
-month-old infants, prefer frequently occurring
+This study found that 9-month-old infants, but not 6month-old
+infants, prefer frequently occurring
 phonetic patterns in monosyllables.
 
 Fenson, L. et al. MacArthur Communicative Development
@@ -1912,8 +1912,8 @@ discontinuous dependencies in language learners: evidence
 for imitations in processing space. Cognition 69, 105-134
 (1998).
 
-Siva-Pereyra, J., Rivera-Gaxiola, M. & Kuh, P. K. An event-
-related brain potential study of sentence comprehension in
+Siva-Pereyra, J., Rivera-Gaxiola, M. & Kuh, P. K. An eventrelated
+brain potential study of sentence comprehension in
 preschoolers: semantic and morphosyntatic processing.
 Cognit. Brain Res. in the press).
 
@@ -1934,8 +1934,8 @@ Gomez, R. L. & Gerken, L. Infant artifcial language learning
 and language acquisition. Trends Cogn. Sci. 4, 178-186
 (2000).
 
-Pena, M., Bonatt, L. L., Nespor, M. & Mehler, J. Signal-
-driven computations in speech processing. Science 298,
+Pena, M., Bonatt, L. L., Nespor, M. & Mehler, J. Signaldriven
+computations in speech processing. Science 298,
 604-607 (2002).
 
 Marcus, G. F., Vijayan, S., Bandi Rao, S. & Vishton, P. M.
@@ -2117,8 +2117,8 @@ across-linguistic study. J. Cogn. Neurosci. 12, 635-647
 (2000).
 
 110. Callan, D. E., Jones, J. A., Callan, A. M. & Akahane-Yamada, R.
-Phonetic perceptual identification by native- and second-
-language speakers differentialy activates brain regions
+Phonetic perceptual identification by native- and secondlanguage
+speakers differentialy activates brain regions
 involved with acoustic phonetic processing and those
 involved with articulatory-auditory/orosensory internal
 models. Neuroimage 22, 1182-1194 (2004).
