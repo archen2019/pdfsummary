@@ -1,0 +1,20 @@
+Acquisition of knowledge through the computation of information about the distributional frequency with which certain items occur in relation to others, or probabil sequenc odds (transitional probabilities) that one unit will follow another
+New data show that infants use computational strategies to detect the statistical and prosodic patterns in language input, and that this leads to the discovery of phonemes and words.
+The brain’s commitment to the statistical and prosodic patterns that are experienced early in life might help to explain the long-standing puzzle of why infants are better language learners than adults.
+This puzzle, coupled with the failure of artificial intelligence approaches to build a computer that learns language, has led to the idea that speech is a deeply encrypted ‘code’.
+When the acoustic features of speech are analysed, modal values occur where languages place phonemic categories, whereas distribu- tional frequencies are low at the borders between cate- gories.
+If infants are sensitive to the relative distributional frequencies of phonetic segments in the language that they hear,and respond to all instances near a modal value by grouping them, this would assist ‘category learning’.
+Further work on distributional cues shows that infants learn the pHoNoTACTIC PATTERNS Of language, rules that govern the sequences of phonemes that can be used to compose words.
+¢ | Infants perceive more variants as identical to the prototype for native-language vowel categories, indicating that linguistic experience increases the perception of similarity anong members of a phonetic category*'.
+The experiment tested whether infants can use transitional probabilities to ‘chunk’ the input, and whether doing so reduced the perceptual demands of phonetic processing in adjacent syllables.
+Recent data and theory posit that language learning is grounded in children’s appreciation of others’ communicative inten- tions, their sensitivity to joint visual attention and their desire to imitate””.
+To test whether such learning depends on live human interaction,a new group of infants saw the same Mandarin speakers on a television screen or heard them over loudspeakers (FIG.4a).
+The other half of the mothers were ‘yoked controls’ (YC) — their reactions were identical, but timed (by the experimenter’s instructions) to coincide with vocal- izations of infants in the CC group.
+Women from all three countries exaggerated the acoustic components of vowels (see the ‘stretching’ of the formant frequencies, creating a larger triangle for infant-directed, as opposed to adult-directed, speech).
+As an open system reflects uncom- mitted circuitry, skill at discriminating foreign-language phonetic units should provide an indirect measure of the brain’s degree of commitment to native-language patterns.
+These results indicate that infants who remain open to all linguistic possibilities — retaining the innate state in which all phonetic differences are partitioned — do not progress as quickly towards language.
+In bilingual children, who hear two languages with distinct statistical and prosodic properties, NLNC predicts that the stabilization process would take longer, and studies are under way to test this hypothesis.
+Fenson, L. et al. MacArthur Communicative Development Inventories: User's Guide and Technical Manual (Singular Publishing Group, San Diego, California, 1993).
+Werker, J. F., Fennell, C., Corcoran, K. & Stager, C. Infants’ abilty to learn phonetically similar words: effects of age and vocabulary size.
+Age of arrivalin the United States predicted the strength of perceived foreign accent, but grammaticality scores were more related to education and use of English.
+The author thanks D. Padden, J. Pruitt, L. Yamamoto and T. Knight for assistance in preparing the manuscript, and A. Meltzoff and G. Cardilo for helpful comments on earer drafts.

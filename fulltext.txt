@@ -4,17 +4,20 @@ through the computation of
 information about the
 distributional frequency with
 which certain items occur in
+
+ 
+
 relation to others, or
-probabil
-sequenc
+probabilistic information in
+sequences of stimuli, such as the
 odds (transitional probabilities)
 that one unit will follow another
 
-nformation in
+ 
 
-  
+ 
 
-timuli, such as the
+ 
 
 in a given language.
 
@@ -78,8 +81,10 @@ abilities that are necessary for language acquisition,
 although not unique to humans. They then learn rapidly
 from exposure to language, in ways that are unique to
 humans,combining pattern detection and computa-
-tional abilities (often called sTATISTICAL LEARNING ) With
+tional abilities (often called STATISTICAL LEARNING ) With
 special social skills. An absence of early exposure to the
+
+ 
 
 patterns that are inherent in natural language —
 whether spoken or signed — produces life-long changes
@@ -103,7 +108,7 @@ to theory development as are their successes.
 
 Recent neuropsychological and brain imaging work
 indicates that language acquisition involves NEURAL
-commrrMent. Early in development, learners commit the
+commrrvent. Early in development, learners commit the
 brain’s neural networks to patterns that reflect natural
 language input. This idea makes empirically testable
 predictions about how early learning supports and
@@ -117,7 +122,7 @@ a‘critical’ or ‘sensitive’ period for language acquisition.
 NATURE REVIEWS [ NEUROSCIENCE
 
 VOLUME 5  NOVEMBER 2004 [ 831
-
+
 REVIEWS
 
  
@@ -142,23 +147,19 @@ PHONEMES
 
 Elements of a language that
 distinguish words by forming
-the contrasting element in pairs
+the con ing element in pairs
 of words in a given language (for
 example, ‘rake —lak:
-“far'—fall’). Languages combine
-different phonetic uni
+“far’fall’). Languages combine
+different phonetic units into
 phonemic categories; for
 example, Japanese combines the
-‘r’and ‘I units into one
+‘r’and ‘1" units into one
 phonemic category.
 
  
 
  
-
- 
-
-into
 
  
 
@@ -193,27 +194,7 @@ Sensory learning
 
 Language-specific speech perception
 
- 
-
- 
-
-Perception
-
- 
-
- 
-
-T T T T
-Production 0 1 2 3
-
-Infants produce I
-
-o
-o
-
- 
-
-non-speech sounds
+_—-s s
 
  
 
@@ -221,9 +202,14 @@ non-speech sounds
 
  
 
-T 1
-6 7 8 9 10 1 12 Time
-T T (months)
+Language-specific
+perception for vowels
+
+Detection of typical
+stress pattern in words
+
+Decline in foreign-language
+consonant perception
 
  
 
@@ -231,13 +217,74 @@ T T (months)
 
  
 
-'Canonical babbling'
+ 
+
+ 
 
  
 
  
 
-First words produced
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Statistical learning Statistical Recognition of Increase in
+Infants discriminate (distributional learning language-specific native-language
+phonetic contrasts frequencies) (transitign_al sound combinations consonant
+of all languages probabilities) perception
+Perception \ \ 1 v
+T T T T T T T T T T T T 1
+Production 0 1 2 3 4 5 6 7 8 9 10 1 12 Time
+months)
+Infants produce T T : )
+non-speech sounds ‘Canonical babbling' First words produced
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 
@@ -260,9 +307,9 @@ vowel-like sounds
 
  
 
-Language-specific speech production
-
  
+
+Language-specific speech production
 
  
 
@@ -272,9 +319,8 @@ Sensory-motor learning
 
 Universal speech production
 
->
 Language-specific speech production
-I —
+-
 
  
 
@@ -295,11 +341,11 @@ to those already learned.
 The encryption problem
 Sorting out the sounds. The world’s languages contain
 many basic elements — around 600 consonants and
-200 vowels'. However, each language uses a unique set
+200 vowels'. However,each language uses a unique set
 of only about 40 distinct elements, called PHONEMES,
 which change the meaning of a word (for example,
 from ‘bat’ to ‘pat’). These phonemes are actually groups
-of non-identical sounds, called proNETIC UNITS, that are
+of non-identical sounds, called prHoNETIC UNITS, that are
 functionally equivalent in the language. The infant’s task
 is to make some progress in figuring out the composi-
 tion of the 40 or so phonemic categories before trying to
@@ -309,7 +355,7 @@ the innate skills that infants bring to the task of phonetic
 learning and about the timeline of early learning. The
 first, called categorical perception, focused on discrimi-
 nation of the acoustic events that distinguish phonetic
-units (80X 1)*. Eimas and colleagues showed that young
+units (80X 1)2. Eimas and colleagues showed that young
 infants are especially sensitive to acoustic changes at the
 phonetic boundaries between categories, including
 those of languages they have never heard**. Infants can
@@ -318,7 +364,7 @@ in languages, whereas adults cannot’. The acoustic
 differences on which this depends are tiny. A change of
 10 ms in the time domain changes /b/ to /p/,and equiva-
 lently small differences in the frequency domain change
-/p/ to /k/ (REE.8). Infants can discriminate these subtle
+/p/ to /k/ (REF.8). Infants can discriminate these subtle
 differences from birth, and this ability is essential for the
 
 acquisition of language. However, categorical perception
@@ -351,7 +397,7 @@ domain-general skill, initially constrained choices at the
 phonetic level of language during its evolution. This
 ensured that, at birth, infants are prepared to discern
 differences between phonetic contrasts in any natural
-language'*'5.
+language'*®>.
 
 As well as discriminating the elementary sounds that
 are used in language, infants must learn to perceptually
@@ -366,7 +412,7 @@ netic context). At an early age,infants can categorize
 832 [ NOVEMBER 2004 [ VOLUME 5
 
 www.nature.com/ reviews/ neuro
-
+
 REVIEWS
 
  
@@ -398,17 +444,17 @@ continuum. When Japanese listeners are tested, they do
 not hear any change in the stimuli. All the sounds are
 identified as the same — the Japanese ‘r’.
 
-When pairs of stimuli from the series are presented to
+‘When pairs of stimuli from the series are presented to
 listeners, and they are asked to identify the sound pairs as
 
  
 
-speech sounds despite such changes'***. By contrast,
+speech sounds despite such changes'*%*. By contrast,
 computers are, so far, unable to recognize phonetic simi-
 larity in this way*. This is a necessary skill if infants are to
 imitate speech and learn their ‘mother tongue™.
 
-Infants” initial universal ability to distinguish
+Infants’ initial universal ability to distinguish
 between phonetic units must eventually give way to a
 language-specific pattern of listening. In Japanese, the
 phonetic units ‘r’ and ‘I’ are combined into a single
@@ -430,7 +476,7 @@ American infants’ discrimination declines for both
 a Spanish® and a Mandarin distinction®', neither of
 which is used in English. At the same time, the ability
 of infants to discriminate native-language phonetic
-units improves®*#2,
+units improves®*#2%,
 
 Computational strategies. What mechanism is responsi-
 ble for the developmental change in phonetic perception
@@ -439,35 +485,36 @@ that infants analyse the statistical distributions of sounds
 that they hear in ambient language. Although adult listen-
 ers hear ‘r’ and ‘I’ as either distinct (English speakers) or
 
+2
+3
+|
+
+     
+
 Percent responses [ra]
-a S
-8 8
-I 1
+a
+8
+I
 
-o
+1‘
+
+T T
 
  
 
-12 3 4 5 6 7 8 9
+ 
+
+ 
+
+ 
+
+12 3 4 5 6 7 8 9 10 11 1213
 Stimulus number
+100 ) -
+| © American
+90 i © Japanese
 
-10 11 12 13
-
- 
-
-100 o
-© American
-
-© Japanese
-
- 
-
- 
-
- 
-
-90 :
-80| :
+80
 
     
 
@@ -477,7 +524,7 @@ Percent correct
 
  
 
-F PP A PP S e
+PP P PP S e
 Discriminm;d paT; e
 
 ‘same’ or ‘different’, the results show that Americans are most sensitive to acoustic differences at the boundary between /r/
@@ -526,15 +573,15 @@ reflect prototype learning in cognitive psychology®.
 
 NATURE REVIEWS [ NEUROSCIENCE
 
-VOLUME 5  NOVEMBER 2004 [ 833
-
+VOLUME 5 [ NOVEMBER 2004 833
+
 REVIEWS
 
  
 
  
 
-Box 21 Why is speech categorization difficult?
+Box 2| Why is speech categorization difficult?
 
  
 
@@ -542,7 +589,15 @@ Box 21 Why is speech categorization difficult?
 
 3,000
 
-2,600 -
+2,600 —
+
+   
+
+7 %0 "80F ae 2
+aeasgece . s
+. %
+
+    
 
 2,200 {1
 
@@ -553,8 +608,6 @@ Second formant (Hz)
 1,400 -
 
 1,000
-
- 
 
 600
 
@@ -587,7 +640,7 @@ phonemes™.
 
 These variations make it difficult to rely on absolute acoustic values to determine the
 phonetic category of a particular speech sound. Despite all of these sources of variability,
-infants perceive phonetic similarity across talkers, rates and contexts'->. By contrast,
+infants perceive phonetic similarity across talkers, rates and contexts'-. By contrast,
 current computer speech-recognition systems cannot recognize phonetic similarity when
 the talker, rate and context change*. Figure reproduced, with permission, from REF. 35 ©
 (1995) Acoustical Society of America.
@@ -684,40 +737,42 @@ three-syllable strings made up of the syllables 'ko’,‘ga’,
 834 [ NOVEMBER 2004 [ VOLUME 5
 
 www.nature.com/ reviews/ neuro
-
+
 REVIEWS
 
  
 
 a Vowel stimuli d Familiarization stimuli
 
-   
+  
 
  
 
 1,900
+1,800 207 i
 
-1,800 20 A
-5 /il prototype — Unimodal — Bimodal
-L 5 _ 167
-~ 1,700 Sa
-z g2 124
-§ 1600 59 .
+= /il prototype — Unimodal — Bimodal
 
-=T 8
+L . §_ 167
 
-E 1.500 .ly/ prototype E g
+< 1,700 2
 
-’ E7 a4
+= g2 124
 
-1,400 o+
+& 1,600 53
+
+£ Iyl prototype T 8
+
+£ 1,500 . P! VP £&
+; 5= 4
+1,400 o+—T T T T T T 1
 
 100 200 300 400 500 600 i 2 3 4 5 6 7 8
 Formant 1 (Hz) Continuum of 'da-ta' stimuli
 
 b Head-turn procedure e Auditory preference procedure
 
-Test stimuli: token 3 or 6 (repeating);
+Test stimuli: token 3 or 6 (repeatiﬁg};
 tokens 1 and 8 (alternating)
 
  
@@ -725,11 +780,11 @@ tokens 1 and 8 (alternating)
 f Mean looking time by
 familiarization and trial types
 
-80 0 American /i/
+80 [ American /i/
 [ Swedish /y/
 
-81 O Atemating
-1 Repeating
+81 [ Attemating
+[ Repeating
 
 Mean looking time (s)
 
@@ -761,19 +816,19 @@ for significantly longer during the repeating trials than during alternating tri
 the unimodal condition showed no preference, indicating that only infants in the bimodal condition
 discriminated the ‘da-ta’ end-point stimuli®’. Panels a and ¢ modified, with permission, from
 REF.41 © (1992) American Association for the Advancement of Science. Panels d and f modified,
-with permission, from REF. 40 (2002) © Elsevier Science.
+with permission, from REF.40 (2002) © Elsevier Science.
 
  
 
 and ‘de’ (FIG.3a). Three groups of infants were tested, and
 the arrangement of the syllables ‘ko’ and ‘ga’ was manip-
 ulated across groups. For one group, they occurred in an
-invariant order, koga', with transitional probabilities of
+invariant order, 'koga', with transitional probabilities of
 1.0 between two syllables, as would be the case if the
 unit formed a word. For the second group, the order of
 the two syllables was variable, ‘koga’ and ‘gako’, with a
 transitional probability of 0.50. For the control group,
-one syllable was repeated twice, 'koko’,consistent with a
+one syllable was repeated twice, 'koko’, consistent with a
 word, but not one that allowed a transitional probability
 strategy. The third syllable,‘de’, occurred before or after
 the two-syllable combination. The three syllables were
@@ -797,7 +852,7 @@ legal combination in Polish.
 
 respond when the third syllable in the string, ‘de’,
 changed to ‘ti’ (FIG.3b). Perceiving a phonetic change in a
-trisyllabic string is difficult for infants at this age,even
+trisyllabic string is difficult for infants at this age, even
 though they readily discriminate the two syllables in
 isolation*. The experiment tested whether infants can
 use transitional probabilities to ‘chunk’ the input, and
@@ -839,7 +894,7 @@ indicating a potential mechanism for word learning.
 
 These specific statistical learning skills are not
 restricted to language or to humans. Infants can track
-adjacent transitional probabilities in tone sequences®'
+adjacent transitional probabilities in tone sequences®!
 and in visual patterns®>®, and monkeys can track
 adjacent dependencies in speech when Saffran’s stimuli
 are used*.
@@ -849,7 +904,7 @@ word candidates and are prominent in natural speech.
 About 90% of English multisyllabic words in conver-
 sational speech begin with linguistic stress on the first
 syllable, as in the words ‘pencil” and ‘stapler’ (REF.55).
-This strong—weak (trochaic) pattern is the opposite of
+This strong-weak (trochaic) pattern is the opposite of
 that used in languages such as Polish, in which a weak—
 strong (iambic) pattern predominates. All languages
 contain words of both kinds, but one pattern typically
@@ -866,8 +921,8 @@ stressed syllable®.
 
 NATURE REVIEWS [ NEUROSCIENCE
 
-VOLUME 5  NOVEMBER 2004 [ 835
-
+VOLUME 5 [ NOVEMBER 2004 [ 835
+
 REVIEWS
 
  
@@ -987,10 +1042,10 @@ learn abstract patterns that do not rely on memory for
 specific instances.
 
 Similarly, Marcus showed that 7-month-olds can learn
-sequences of either an ABB (‘de-li-li") or ABA (‘we-di-we’)
+sequences of either an ABB (‘de-li-i") or ABA (‘we-di-we’)
 form,and that they can extend this pattern learning to
 new sequences, a skill that was argued to require learning
-of algebraic rules®*”. It has been proposed that infants
+of algebraic rules®*’. It has been proposed that infants
 compute two kinds of statistics, one arithmetic and the
 other algebraic®*’; however, experimentally differentiat-
 ing the two is difficult®®®. Further tests are required to
@@ -1011,7 +1066,7 @@ speech production and speech perception, the presence
 of a human being interacting with a child has a strong
 influence on learning. These findings are reminiscent of
 the constraints observed in communication learning in
-songbirds™7!.
+songbirds™7!,
 
 The impact of social interaction on human language
 learning has been dramatically illustrated by the few
@@ -1040,7 +1095,7 @@ desire to imitate””.
 836 | NOVEMBER 2004 [ VOLUME 5
 
 www.nature.com/ reviews/ neuro
-
+
 REVIEWS
 
  
@@ -1051,41 +1106,43 @@ Background stimuli ~ Change stimuli
 
 Invariant order:  dekoga, kogade tikoga, kogati  Familiarization: pabikutibudogolatupabikudaropi...
 Variable order:  dekoga, gakode  tigako, kogati
-Redundant order: dekoko, kokode tikoko, kokoti
+Redundant order: dekoko, kokode ~tikoko, kokoti
 
-b Head-turn procedure € Auditory preference procedure
+b Head-turn procedure
+
+€ Auditory preference procedure
+
+Lo 2o
 
  
 
-Test stimuli: 'de' versus 'ti' Test stimuli: 'tudaro' (part-word) versus
+Test stimuli: 'de' versus 'ti'
 
+Test stimuli: 'tudaro' (part-word) versus
 'pabiku’ (word)
 
  
 
 ¢ Discrimination performance f Mean listening times
 
-L 75 8
 8
-£ g7
-§so g,
-5 3
-g
-3 45 B 5
-5
-o
+7
+6
 
+75
+60
+__ ==z Chance
+. [I
 30 4
 
- 
-
-Variable Redundant Part-words Words
+5
+Invariant  Variable Redundant
 
 Figure 3 | Two experiments showing infant learning of word-like stimuli on the basis of
 transitional probabilities between adjacent syllables. a | Trisyllabic stimuli used to test
 infant learning of word-like units using transitional probabilities between the syllables ‘ko’ and
-‘ga’. In one group they occurred in an invariant order, with transitional probabilities of 1.0; in a
-second group they were heard in a variable order, with transitional probablilities of 0.50. A
+‘ga’. In one group they occurred in an invariant order, with transitional probabilities of 1.0;in a
+second group they were heard in a variable order, with transitional probabliities of 0.50. A
 redundant order group served as a control. In all goups, the third syllable making up each
 word-like unit was ‘de’. b | The head-turn testing procedure was used to test infants’ detection
 of a change from the syllable ‘de’ to the syllable ‘ti’ in all groups. ¢ | Only the invariant group
@@ -1098,9 +1155,20 @@ infant’s attention. Once the infant’s head turned towards the light, either 
 was played and repeated until the infant looked away, and the total amount of looking time
 was measured. Discrimination was indicated by significantly different looking times for words
 and part-words. f | Infants preferred new part-words, indicating that they had learned the
-original words™®.
+original words™*.
 
-Invariant
+ 
+
+Percent correct
+Seconds
+
+ 
+
+ 
+
+ 
+
+Part-words Words
 
  
 
@@ -1179,7 +1247,7 @@ respond to the social gestures and displays of females,
 which affect the rate, quality and retention of song
 elements in their repertoires*’, and white-crowned
 sparrow tutors provide acoustic feedback that affects
-the repertoires of young birds*®.
+the repertoires of young birds®®.
 
 In birds, interactions can take various forms.
 Blindfolded zebra finches that cannot see the tutor, but
@@ -1197,7 +1265,7 @@ the books or on the toys that they were talking about,
 and the infant’s gaze followed the speaker’s gaze, which
 is typical for infants at this age”'*?. Gaze-following to
 an object is an important predictor of receptive vocab-
-ulary®**; perhaps joint visual attention to an object
+ulary®*}; perhaps joint visual attention to an object
 that is being named also helps infants to segment
 words from ongoing speech.
 
@@ -1205,8 +1273,8 @@ words from ongoing speech.
 
 NATURE REVIEWS [ NEUROSCIENCE
 
-VOLUME 5  NOVEMBER 2004 [ 837
-
+VOLUME 5  NOVEMBER 2004 837
+
 REVIEWS
 
  
@@ -1215,58 +1283,54 @@ a Foreign-language exposure
 
 d Social response manipulation
 
-  
+     
+ 
+      
+
+   
 
 Live exposure Auditory or audiovisual
 
+exposure
+
+b Phonetic perception test
+
  
 
-  
-    
-
-    
- 
-  
+       
  
 
-exposure Visit 1 Visit2 —
-A & &
-Gy Vs, q.)”//- %%
-b Phonetic perception test 0, %, 0% %0 %6, 20, 2, %
-Yoy 2, % AL %, 0,
-2 Sy ” R Y72
-% 2 %,
 ©
 Yoked-control condition (YC)
 Visit 1 Visit 2—»
 Head-turn procedure
 Test stimuli: Mandarin Chinese phonetic contrast
-A &, I &
-< &3 () e
-2y 7 6‘045 %00 2, 7 %y,
-7%, %0 0, %, %, 2%,%,
-2 oy Y N N A
-%, " %0,0s,
+A 2, I &
+< &3 D, s
+2y 7 6‘045 %00 7, 7 Ty,
+2 7% %, 0, %, %, %%,
+2 <%, 2 2, ey Gy Y
+%, " %025,
 
-C Phonetic learning ”.s\oo’
+c Phonetic learning ”.s\oo’
 Effects of live Effects of non-live o Effects of social responses
 foreign-language foreign-language
-exposure exposure - E [ Contingent
+exposure exposure - , [ Contingent
 
-3 b
+3 N
 i 5,03 social
 
-g 1 Mandarin |2 [ Non-contingent
+g7 0 g(arz)dsz;rrlg 82 ] I Non-contingent
 
-£ 65 rosure 72 social
+£ 65 P 72 social
 
-8 [ English 5 802
+8 [ English 5§02+
 
-~ 60 b S
+~ 60 4 S
 
 E control TV Audio sg i
 
-o 55 €801
+o 55 €801 -
 
 & 50 | Chance ge |
 
@@ -1304,7 +1368,7 @@ computational learning, and thereby protecting infants
 from meaningless calculations’". The need for social
 interaction would ensure that learning focuses on
 speech that derives from humans in the child’s environ-
-ment, rather than on signals from other sources™%°.
+ment, rather than on signals from other sources™*%°.
 Social interaction might also be important for learning
 sign language; both deaf and hearing babies who experi-
 ence a natural sign language babble using their hands on
@@ -1319,7 +1383,7 @@ but not by machines'*.
 Social factors might affect language acquisition
 because language evolved to address a need for social
 communication. There are connections between social
-awareness and other higher cognitive functions!*1%4,
+awareness and other higher cognitive functions!*!1%4,
 and evolution might have forged connections between
 language and the social brain.
 
@@ -1333,7 +1397,7 @@ nisms might enhance our ability to learn and remember,
 as well as prompting our most sophisticated language
 output. These effects could be mediated by hormones,
 which have been implicated in learning and song pro-
-duction in birds'*"'%. On the other hand, learning
+duction in birds'*"'%®. On the other hand, learning
 might also involve more specific, bottom-up’ mecha-
 nisms attuned to the particular form and information
 content of social cues (such as eye gaze). Further studies
@@ -1345,7 +1409,7 @@ Native language neural commitment
 A growing number of studies have confirmed the effects
 of language experience on the brain'®-'"7. The techniques
 used in these studies have recently been applied to infants
-and young children®**261115-12! For example, Dehaene-
+and young children®**26!11812! For example, Dehaene-
 Lambertz and colleagues used functional MRI to measure
 the brain activity evoked by normal speech and speech
 played backwards in 3-month-old infants,and found that
@@ -1381,7 +1445,7 @@ already learned.
 838 [ NOVEMBER 2004 [ VOLUME 5
 
 www.nature.com/ reviews/ neuro
-
+
 REVIEWS
 
  
@@ -1399,47 +1463,45 @@ Box 4 | What is ‘motherese’?
  
 
 a Adult-directed b English
-700 Ihad a TG
+700 had a a0
 little The 3,000
-= bt @ doctor  Ben- for o
-L 400 uhh gaveme  dectin it £ 5000
-2 MV e M o ~ o
-i lal
+= bit 2" goctor Ben- for ]
+L 400 uhh gave me dectin it ¥ 2000
+2 MV A A= - a
+i Ial
 100 1,000 M/
 -dii T T T T 1
 Infant-directed 300 700 1.100
 700 /\ F1 (H2)
 _ Russian
-T -
-S 400-| 3,000 1if
-€ A I\J \
-1~ U\ = -
-1o JCaNYou  Say  Heyyou Say hi-ii < 2,000
+¥ 4
+S 400-| 3,000 1t
+£ J - I\J \
+.. v\ = -
+100 [Canyou  say Hey you Say hi-i-i L 2000
 | say ahh? ahhh hi-i-i Qo
 Time —> lal
 1,000
-Il
-i T T
+ol
+i T T T T
 c Infant-directed
 -5 300 700 1,100
-s z F1 (Hz)
-£3 —104 Swedish
-ES 7]
-S -15-| 3,000
-Bw il
-g2 - 4
+s £ F1 (Hz)
+S3 —104 Swedish
+£%5 1
+S9o -15-| 3,000
+Bw i
+32 - 4
 oE 5
 Sy 20 L 2,000
 B5° N
-o 4
+I i
 8E fal
-28 % 1,000
-22 ! 1l
-58 T
-85 2 300 700 1,100
+g8 %7 1,000
+g5 2 300 700 1,100
 @2 F1 (Hz)
 =811 1 T 1 1 _—
-300,000 400,000 500,000 600,000 700,000 800,000 ° Atfiult-dwected
+300,000 400,000 500,000 600,000 700,000 800,000 ° Atfiuh-dwected
 ID vowel area (Hz?) o Infant-directed |
 
  
@@ -1453,7 +1515,7 @@ infant-directed (ID) speech (a)™.
 
 Infant-directed speech might assist infants in learning speech sounds. Women speaking
 English, Russian or Swedish were recorded while they spoke to another adult or to their
-young infants™. Acoustic analyses showed that the vowel sounds (the /i/ in ‘se’,the /a/ in
+young infants™. Acoustic analyses showed that the vowel sounds (the /i/ in ‘see’,the /a/ in
 ‘saw’ and the /u/ in ‘Sue’) in infant-directed speech were more clearly articulated (b).
 Women from all three countries exaggerated the acoustic components of vowels (see the
 ‘stretching’ of the formant frequencies, creating a larger triangle for infant-directed, as
@@ -1476,7 +1538,7 @@ from magnetoencephalography (MEG): when pro-
 cessing foreign-language speech sounds, a larger area
 of the adult brain is activated for a longer time period
 than when processing native-language sounds, indi-
-cating neural inefficiency''". This neural inefficiency
+cating neural inefficiency!!'!. This neural inefficiency
 for foreign-language information extends beyond
 
 speech — processing mathematical knowledge in a
@@ -1489,12 +1551,12 @@ that an infant’s early skill in native-language phonetic
 perception should predict that child’s later success at
 language acquisition. This is because phonetic percep-
 tion promotes the detection of phonotactic patterns,
-which advance word segmentation*12'2° and, once
+which advance word segmentation*'>'* and, once
 infants begin to associate words with objects — a task
 that challenges phonetic perception'?’'2* — those infants
 who have better phonetic perception would be expected
 to advance faster. In other words, advanced phonetic
-abilities in infancy should ‘bootstrap’'*’ language
+abilities in infancy should ‘bootstrap’'?’ language
 learning, propelling infants to more sophisticated levels
 earlier in development. Behavioural studies support this
 hypothesis. Speech-discrimination skill in 6-month-old
@@ -1506,7 +1568,7 @@ Neural measures provide a sensitive measure of
 individual differences in speech perception. Event-
 related potentials (ERPs) have been used in infants and
 toddlers to measure neural responses to phonemes,
-words and sentences*"1?'13!, Rivera-Gaxiola and
+words and sentences*""13!, Rivera-Gaxiola and
 colleagues recorded ERPs in typically developing
 7- and 11-month-old infants in response to native and
 non-native speech sounds, and found two types of
@@ -1549,8 +1611,8 @@ correlated negatively with later language skills.
 
 NATURE REVIEWS [ NEUROSCIENCE
 
-VOLUME 5  NOVEMBER 2004 [ 839
-
+VOLUME 5 [ NOVEMBER 2004 [ 839
+
 REVIEWS
 
  
@@ -1589,13 +1651,13 @@ learn language, the innate state must be altered by
 input and give way to NLNC.
 
 Neural commitment could be important in a ‘critical
-period’ or ‘sensitive period’'** for language acquisi-
+period’ or ‘sensitive period’'* for language acquisi-
 tion'**. Maturational factors are a powerful predictor
-of the acquisition of first and second languages'¥-'%.
+of the acquisition of first and second languages'¥-1%.
 For example, deaf children born to hearing parents
 whose first exposure to sign language occurs after the
 age of 6 show a life-long attenuation in ability to learn
-language'*!. Why is age so crucial? According to NLNC,
+language'*'. Why is age so crucial? According to NLNC,
 exposure to spoken or signed language instigates
 a mapping process for which infants are neurally
 prepared'*?, and during which the brain’s networks
@@ -1606,10 +1668,10 @@ detecting the patterns in natural language move more
 quickly towards complex language structures. Simply
 experiencing a language early in development, without
 producing it themselves, can have lasting effects on
-infants’ ability to learn that language as an adult'01414
+infants’ ability to learn that language as an adult'0!414
 (but see REF. 145). By contrast, when language input is
 substantially delayed, native-like skills are never
-achieved'!.
+achieved'*!.
 
 If experience is an important driver of the sensitive
 period, as NLNC indicates, why do we not learn new
@@ -1629,26 +1691,27 @@ Reponses to foreign contrast at
 Foreign
 deviant
 
-y
+|
 
   
   
    
 
 Standard —-
-
 11-m N responders
+
+   
+
 Foreign phonetic test:
 
 'ta-ta-ta-DA' (Spanish) Standard
 
-English listeners hear the
+English listeners hear the Fz
 Spanish syllable 'ta' as 'da’
 
 Native contrast:
-'da-da-da-THA' (English)
 
- 
+‘da-da-da-THA' (English) OO deviant
 
 native and non-native consonant contrasts. As a group, infants’ discriminatory ERP responses to the non-native contrast
 are present at 7 months of age, but disappear by 11 months of age, consistent with behavioural data.
@@ -1692,7 +1755,7 @@ explains the fact that second language learning abilities
 decline precipitously as language acquisition proceeds.
 NLNC might also explain why the degree of difficulty
 in learning a second language varies depending on the
-relationship between the first and second language'*;
+relationship between the first and second language'+;
 according to NLNC, it should depend on the overlap
 between the statistical and prosodic features of the two
 languages.
@@ -1702,7 +1765,7 @@ languages.
 840 [ NOVEMBER 2004 [ VOLUME 5
 
 www.nature.com/ reviews/ neuro
-
+
 REVIEWS
 
  
@@ -1733,9 +1796,9 @@ differences in speech sounds — only those that under-
 lie phonetic distinctions®®. In word learning, infants
 compute transitional probabilities that assist them in
 identifying potential words, but computational con-
-straints are also shown?*6:6063.147.148 Moreover, when
+straints are also shown?*6:60.63.147.148 Moreover, when
 learning natural language, constraints are seen in the
-potential need for a social, interactive human being®' .
+potential need for a social, interactive human being*'*.
 Finally, learning produces a neural commitment to the
 patterns of an individual’s native language, and this
 constrains future success at acquiring a new language.
@@ -1799,7 +1862,7 @@ from Spanish environments. J. Exp. Chid Psychol. 20,
 215-225 (1975).
 
 5. Eimas, P. D. Auditory and phonetic coding of the cues for
-speech: discrimination of the /- distinction by young
+speech: discrimination of the /r-/ distinction by young
 infants. Percept. Psychophys. 18, 341-347 (1975).
 
 6. Werker, J. F. & Lalonde, C. Cross-language speech
@@ -1821,7 +1884,7 @@ Science 90, 69-72 (1975).
 identification functions for synthetic VOT stimuii. J. Acoust.
 Soc. Am. 63, 905-917 (1978).
 
-11. Kuhl, P. K. & Padden, D. M. Enhanced discriminabilty at the
+11, Kuhl, P. K. & Padden, D. M. Enhanced discriminabilty at the
 phonetic boundaries for the place feature in macaques.
 
 J. Acoust. Soc. Am. 73, 1003-1010 (1983).
@@ -1848,7 +1911,7 @@ the special-mechanisms debate in speech. Exp. Biol. 45, The results show develop
 Hall, W. S. & Dooling, R. J.) 73-106 (MIT Press, Cambridge, ~ 26. Werker, J. F. & Tees, R. C. Cross-language speech
 Massachusetts, 1991). perception: evidence for perceptual reorganization during
 
-16.  Asiin, R. N. & Pisoni, D. B. in Child Phonology: Perception the first year of fe. Infant Behav. Dev. 7, 49-63 (1984).
+16.  Asiin, R. N. & Pisoni, D. B. in Chid Phonology: Perception the first year of fe. Infant Behav. Dev. 7, 49-63 (1984).
 and Production (eds Yeni-Komshian, G., Kavanagh, J. & 27. Best, C. & McRoberts, G. W. Infant perception of non-native
 Ferguson, C.) 67-96 (Academic, New York, 1980). consonant contrasts that aduts assimilate in different ways.
 
@@ -1875,9 +1938,9 @@ J. Acoust. Soc. Am. 66, 1668-1679 (1979). An ERP study showing that at 11 months
 speech in early infancy. Infant Behav. Dev. 6, 263-285 contrasts. Infants’ responsiveness to native-language
 (1983). consonant contrasts also increased over time.
 
-22, Miler, J. L. & Liberman, A. M. Some effects of ater-occurring ~ 31.  Kuhl, P. K., Tsao, F.-M. & Liu, H.-M. Foreign-language
+22, Miler, J. L. & Liberman, A. M. Some effects of ater-occurring ~ 31. Kuhl, P. K., Tsao, F.-M. & Liu, H.-M. Foreign-language
 information on the perception of stop consonant and experience in infancy: effects of short-term exposure and
-semivowel. Percept. Psychophys. 25, 457-465 (1979). social interaction on phonetic learing. Proc. Natl Acad. Sci.
+semivowel. Percept. Psychophys. 25, 457-465 (1979). social interaction on phonetic leaming. Proc. Natl Acad. Sci.
 
 23. Eimas, P. D. & Miler, J. L. Contextual effects in infant speech USA 100, 9096-9101 (2003).
 perception. Science 209, 1140-1141(1980). Two studies showing that learning can occur with only
@@ -1893,7 +1956,7 @@ itis enhanced by social interaction.
 NATURE REVIEWS [ NEUROSCIENCE
 
 VOLUME 5 [ NOVEMBER 2004 [ 841
-
+
 REVIEWS
 
  
@@ -1922,7 +1985,7 @@ REVIEWS
 
 43.
 
-44,
+44.
 
 45.
 
@@ -1956,7 +2019,7 @@ Neurosci. 1, 351-353 (1998).
 
 Kuhl, P.K,, Tsao, F. M., Liu, H. M., Zhang, Y. & De Boer, B.
 Language/culture/mind/brain. Progress at the margins
-between discipiines. Ann. NY Acad. Sci. 935, 136-174 (2001).
+between discipines. Ann. NY Acad. Sci. 935, 136-174 (2001).
 Fant, G. Speech Sounds and Features (MIT Press,
 Cambridge, Massachusetts, 1973).
 
@@ -1976,12 +2039,12 @@ Lisker, L. & Abramson, A. S. A cross-language study of
 voicing in initial stops: acoustical measurements. Word 20,
 384-422 (1964).
 
-Kuhl, P. K. Early linguistic experience and phonetic
+Kuhl, P K. Early linguistic experience and phonetic
 perception: impiications for theories of developmental
 speech perception. J. Phonefics 21, 125-139 (1993).
-Maye, J., Werker, J. F. & Gerken, L. Infant sensitvity to
+Maye, J., Werker, J. F. & Gerken, L. Infant sensitivity to
 distributional information can affect phonetic discrimination.
-Cognition82, B101-B111 (2002).
+Cognition 82, B101-B111 (2002).
 
 Kuhl, P.K., Wiliams, K. A., Lacerda, F., Stevens, K. N. &
 Lindblom, B. Linguistic experience alters phonetic
@@ -1998,7 +2061,7 @@ Rosch, E. Cognitive reference points. Cognit. Psychol. 7,
 
 Jusczyk, P, Luce, P. & Charles-Luce, J. Infants’ sensitivity to
 phonotactic patterns in the native language. J. Mem. Lang.
-33, 630-645 (1994).
+33,630-645 (1994).
 
 This study found that 9-month-old infants, but not 6-
 month-old infants, prefer frequently occurring
@@ -2020,14 +2083,14 @@ stimuli, and for simultaneously presented visual stimuli,
 but not for sequentially presented visual stimuli.
 Goodsitt, J. V, Morgan, J. L. & Kuhl, P. K. Perceptual
 strategies in prelingual speech segmentation. J. Child Lang.
-20,229-252 (1993).
+20, 229-252 (1993).
 
 Karzon, R. Discrimination of polysyllabic sequences by
 one- to four-month-old infants. J. Exp. Child Psychol. 39,
 326-342 (1985).
 
 Saffran, J. R., Aslin, R. N. & Newport, E. L. Statistical
-learing by 8-month old infants. Science 274, 1926-1928
+learning by 8-month old infants. Science 274, 1926-1928
 (1996).
 
 Asin, R.N., Saffran, J. R. & Newport, E. L. Computation of
@@ -2152,15 +2215,15 @@ preschoolers: semantic and morphosyntatic processing.
 Cognit. Brain Res. in the press).
 
 Newport, E. L. &Aslin, R. N. Learning at a distance |
-Statistical learning of non-adjacent dependencies. Cogni.
+Statistical learning of non-adjacent dependencies. Cognit.
 Psychol. 48, 127-162 (2004).
 
-Newport, E. L., Hauser, M. D., Spaepen, G. & Asin, R. N.
+Newport, E. L., Hauser, M. D., Spaepen, G. &Asin, R. N.
 Learning at a distance Il Statistical learning of non-adjacent
 dependencies in a non-human primate. Cognit. Psychol. 49,
 85-117 (2004).
 
-Gomez, R. L. & Gerken, L. Artiicial grammar learning by
+Gomez, R. L. & Gerken, L. Artficial grammar learning by
 1-year-olds leads to specific and abstract knowledge.
 Cognition70, 109-135 (1999).
 
@@ -2193,7 +2256,7 @@ and the social brain. Proc. Natl Acad. Sci. USA 100,
 
 Fromkin, V., Krashen, S., Curtiss, S., Rigler, D. & Rigler, M.
 The development of language in Genie: a case of language
-acquisition beyond the ‘critical period. Brain Lang. 1,
+acquisition beyond the critical period. Brain Lang. 1,
 81-107 (1974).
 
 Kuhl, P.K., Coffey-Corina, S., Padden, D. M. & Dawson, G.
@@ -2277,7 +2340,7 @@ learns its song. Science 291, 2564-2569 (2001).
 infants interpret adult looking behavior. Dev. Psychol. 38,
 958-966 (2002
 
-92. Baldwin, D. A. in Joint Attention: Its Origins and Role in
+92. Baldwin, D. A. in Joint Attention: lts Origins and Role in
 Development (eds Moore, C. & Dunham, P. J.) 131-158
 (Lawrence Erlbaum Associates, Hilsdale, New Jersey,
 1995).
@@ -2295,7 +2358,7 @@ the quality of infant vocalizations. J. Child Lang. 14,
 
 96. Liu, H.-M., Kuhl, P. K. & Tsao, F.-M. An association between
 mothers’ speech clarity and infants’ speech discrimination
-skill. Dev. Sci. 6, F1-F10 (2003).
+skill. Dev. Sci. 6, F1~F10 (2003).
 
 97. Thiessen, E. D., Hil, E. & Saffran, J. R. Infant-directed
 speech faciltates word segmentation. Infancy (in the
@@ -2352,7 +2415,7 @@ neurons. Ann. NY Acad. Sci. 1016, 628-658 (2004).
 
 109. Dehaene-Lambertz, G., Dupoux, E. & Gout, A.
 Electrophysiological correlates of phonological processing:
-across-inguistic study. J. Cogn. Neurosci. 12, 635-647
+across-linguistic study. J. Cogn. Neurosci. 12, 635-647
 (2000).
 
 110. Callan, D. E., Jones, J. A., Callan, A. M. & Akahane-Yamada, R.
@@ -2371,7 +2434,7 @@ Society Annual General Meeting program 2003, 81-82.
 842 [ NOVEMBER 2004 [ VOLUME 5
 
 www.nature.com/ reviews/ neuro
-
+
 REVIEWS
 
  
@@ -2404,7 +2467,7 @@ REVIEWS
 
 125.
 
-Sanders, L. D., Newport, E. L. & Nevill, H. J. Segmenting
+Sanders, L. D., Newport, E. L. & Neville, H. J. Segmenting
 nonsense: an event-related potential index of perceived
 onsets in continuous speech. Nature Neurosci. 5, 700-703
 (2002).
@@ -2415,10 +2478,10 @@ speech: reallocation of neural substrates. Neuroimage 21,
 
 Wang, Y., Sereno, J. A., Jongman, A. & Hirsch, J. MRI
 evidence for cortical modification during learning of
-Mandarin lexical tone. J. Cogn. Neurosci. 15, 10191027
+Mandarin lexical tone. J. Cogn. Neurosci. 15, 1019-1027
 (2003).
 
-Winkler, I et al. Brain responses reveal the learing of foreign
+Winkler, I. et al. Brain responses reveal the learing of foreign
 language phonemes. Psychophysiology 36, 638-642
 (1999).
 
@@ -2459,17 +2522,17 @@ Mils, D. L., Coffey-Corina, S. & Nevile, H. J. Language
 comprehension and cerebral specialization from 13-20
 months. Dev. Neuropsychol. 13, 397445 (1997).
 
-Kuhl, P.K. A new view of language acquisition. Proc. Nat!
+Kuhl, P. K. A new view of language acquisition. Proc. Nat!
 Acad. Sci. USA 97, 11850-11857 (2000).
 
 Dehaene, S., Spelke, E., Pinel, P., Stanescu, R. & Tsivkin, S.
 Sources of mathematical thinking: behavioral and
 brain-imaging evidence. Science 284, 970-974 (1999).
 Iverson, P. et al. A perceptual interference account of
-acquisition dificulties for non-native phonemes. Cognition
+acquisition difficulties for non-native phonemes. Cognition
 87, B47-B57 (2003).
 
-Friederici, A. D. & Wessels, J. M. I. Phonotactic knowledge
+Friederici, A. D. & Wessels, J. M. |. Phonotactic knowledge
 of word boundaries and its use in infant speech perception.
 Percept. Psychophys. 54, 287-295 (1993).
 
@@ -2545,7 +2608,7 @@ Lenneberg, E. H. Biological Foundations of Language (Wiley,
 New York, 1967).
 
 Newport, E. Maturational constraints on language learning.
-Cognit. Sci. 14, 11-28 (1990).
+Cognit. Sci. 18, 11-28 (1990).
 
 Johnson, J. & Newport, E. Critical period effects in sound
 language learning: the influence of maturation state on the
@@ -2560,7 +2623,7 @@ Long, M. Maturational constraints on language development.
 Stud. Second Lang. Acquis. 12, 251-285 (1990
 
 Birdsong, D. & Molis, M. On the evidence for maturational
-constraints in second-language acqisition. J. Mem. Lang.
+constraints in second-language acquisition. J. Mem. Lang.
 44,235-249 (2001).
 
 Flege, J. E., Yeni-Komshian, G. H. & Liu, S. Age constraints
@@ -2579,12 +2642,12 @@ were more related to education and use of English.
 second language acquisition: evidence for linguistic plasticity
 and epigenesis. Brain Lang. 87, 369-84 (2003).
 Greenough, W. T. & Black, J. E. in The Minnesota Symposia
-on Child Psychology, Vol. 24: Developmental Behavioral
+on Chid Psychology, Vol. 24: Developmental Behavioral
 Neuroscience (eds Gunnar, M. & Nelson, C.) 155-200
 (Lawrence Erlbaum Associates, Hilsdale, New Jersey,
 1992).
 
-Oh, J.S., Jun, S-A., Knightly, L. M. &Au, T. K-F. Holding on
+Oh, J.S., Jun, S.-A., Knightly, L. M. &Au, T. K-F. Holding on
 to childhood language memory. Cognition 86, B53-B64
 (2003).
 
@@ -2614,7 +2677,7 @@ and constraints. Curr: Dir. Psychol. Sci. 12, 110-114
 
 Hauser, M. D., Chomsky, N. & Fitch, W. . The faculty of
 language: what is it, who has it, and how did it evolve?
-Science 298, 1569-1579 (2002).
+Science 208, 1569-1579 (2002).
 
 142.
 
@@ -2654,9 +2717,9 @@ Language
 Kuhl's homepage: http://ilabs
 Access to this interactive
 
- 
-
 e links
+
+ 
 
 ashington.edu/kuhl/
 ks box is free online.
@@ -2668,5 +2731,5 @@ ks box is free online.
 
 NATURE REVIEWS [ NEUROSCIENCE
 
-VOLUME 5  NOVEMBER 2004 [ 843
-
+VOLUME 5 [ NOVEMBER 2004 [ 843
+
