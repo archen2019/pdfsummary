@@ -8,6 +8,7 @@ with open('fulltext.txt', 'r') as f:
 with open('cleantext.txt', 'w') as f:
     f.write(''.join(newlines))
 
+# replace hyphenated words with full words
 lines = []
 with open('cleantext.txt', 'r') as f:
     lines = f.readlines()
