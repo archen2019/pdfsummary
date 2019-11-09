@@ -8,10 +8,12 @@ with open('fulltext.txt', 'r', encoding = 'utf-8') as f:
             newlines.append(lines[i])
 
 # replace hyphenated words with full words
-text = ''.join(newlines)
-def replaceHyphen(match):
-    return re.sub(r'-\s*', '', match.string)
-cleantext = re.sub(r'[a-zA-Z]+-\s*[a-zA-Z]+', replaceHyphen, text, flags=re.IGNORECASE)
+for i in range(len(newlines) - 1):
+    if newlines[i][:-1].endswith('-') and newlines[i + 1].strip():
+        newlines[i] = newlines[i][:-2]
+        split = newlines[i + 1].split(' ', 1)
+        newlines[i] = newlines[i] + split[0] + '\n'
+        newlines[i + 1] = split[1]
 
 with open('cleantext.txt', 'w', encoding = 'utf-8') as f:
-    f.write(cleantext)
+    f.write(''.join(newlines))

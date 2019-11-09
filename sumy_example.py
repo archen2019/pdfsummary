@@ -12,7 +12,7 @@ from sumy.utils import get_stop_words
 LANGUAGE = "english"
 SENTENCES_COUNT = 20
 # fileName = input("input name: ")
-fileName = 'fulltext.txt'
+fileName = 'cleantext.txt'
 
 if __name__ == "__main__":
     # for links
