@@ -1,6 +1,6 @@
 # pdfsummary
 
-Python script that creates a text summary and finds key phrases of a PDF file.
+Python script that creates a text summary of a PDF file.
 
 ## Table of Contents
 
