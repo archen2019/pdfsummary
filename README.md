@@ -23,6 +23,8 @@ git clone https://github.com/archen2019/pdfsummary
 pip install -r requirements.txt
 ```
 
+`tesseract` is also a required dependency. To install `tesseract`, follow the instructions at https://github.com/tesseract-ocr/tesseract/wiki.
+
 ## Usage
 
 To run `pdfsummary`, simply enter the cloned folder and run the file `run.py`. Then, enter the file name of the PDF, the number of sentences in the summary, and the number of keywords. 
