@@ -3,11 +3,13 @@ from pdf2image import convert_from_path
 from PIL import Image
 import pandas as pd
 import numpy as np
+from pdfrw import PdfReader, PdfWriter
 
 pdf = input('File name: ')
 
 images = convert_from_path(pdf)
 txtlist = []
+writer = PdfWriter()
 
 for img in images:
     img = img.convert('LA')
@@ -17,9 +19,14 @@ for img in images:
         txtlist.extend(curfile.readlines())
         del txtlist[-1]
         txtlist.append('\n')
+    subprocess.run(['tesseract', 'cur_img.png', 'cur_pdf', '--dpi', '125', 'pdf'])
+    writer.addpages(PdfReader('cur_pdf.pdf').pages)
+
+writer.write('searchable.pdf')
 
 with open('fulltext.txt', 'w') as f:
     f.write(''.join(txtlist))
 
 subprocess.run(['rm', 'cur_img.png'])
 subprocess.run(['rm', 'cur_txt.txt'])
+subprocess.run(['rm', 'cur_pdf.pdf'])
