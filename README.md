@@ -33,6 +33,12 @@ Number of Sentences in summary: [NUM-SENTENCES]
 Number of key phrases: [NUM-PHRASES]
 ```
 
+This will create 4 files in the directory of the original pdf:
+* `keyphrases.txt`: A text file containing the key phrases.
+* `summary.txt`: A text file containing the summary.
+* `Summary.pdf`: A pdf file containing the key phrases and the summary.
+* `highlighted.pdf`: A pdf file containing the original pdf, with key phrases highlighted.
+
 ## Methodology
 
 1. Use `pdf2image` to convert pdf into png files.
