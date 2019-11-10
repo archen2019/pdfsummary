@@ -4,6 +4,7 @@ from summarize import summarize
 from keyphrase import get_key_phrases
 from makepdf import make_pdf
 from highlight import highlight
+import subprocess
 
 fileName = input('File Name: ')
 numSentences = int(input('Number of sentences in summary: '))
@@ -19,4 +20,9 @@ make_pdf(keyphrases)
 print('---pdf made---')
 highlight(keyphrases)
 print('---pdf highlighted---')
+subprocess.run(['rm', 'cur_img.png'])
+subprocess.run(['rm', 'cur_txt.txt'])
+subprocess.run(['rm', 'cur_pdf.pdf'])
+subprocess.run(['rm', 'cleantext.txt'])
+subprocess.run(['rm', 'searchable.pdf'])
 print('done')

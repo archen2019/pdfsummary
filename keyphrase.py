@@ -11,6 +11,6 @@ def get_key_phrases(numKey):
 
     with open('keyphrases.txt', 'w') as f:
         for key in keyphrases:
-            f.write(key)
+            f.write(key + '\n')
 
     return keyphrases
