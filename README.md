@@ -1,11 +1,11 @@
 # pdfsummary
 
-This is a python script that creates a text summary of a given pdf file.
+This is a Python script that creates a text summary of a given pdf file.
 
 ## Table of Contents
 
 * [Installation](#installation)
-* [How to use pdfsummary](#how-to)
+* [Usage](#usage)
 
 ## Installation
 
@@ -21,7 +21,7 @@ git clone https://github.com/archen2019/pdfsummary
 pip install -r requirements.txt
 ```
 
-## How to use pdfsummary
+## Usage
 
 To run `pdfsummary`, simply run the file `run.py`. Then, enter the file name of the pdf, the number of sentences in the summary, and the number of keywords. 
 
@@ -32,4 +32,12 @@ Number of Sentences in summary: [NUM-SENTENCES]
 Number of key phrases: [NUM-PHRASES]
 ```
 
-This script works by first converting the pages in the pdf files into images. The images are then transcribed into text, which are cleaned up for the next few steps. The summary and the key phrases for the file are generated and are put into two separate text files as well as one pdf file. The key phrases are also highlighted in a new pdf file that contains the same content as the original. 
+## Methodology
+
+1. Use `pdf2image` to convert pdf into png files.
+2. Use `tesseract` to extract text from images and create a text-searchable copy of the original pdf.
+3. Process text to remove extra newlines and reconnect hyphenated words.
+4. Use `sumy` to generate a summary of the processed text.
+5. Use `pke` to generate key phrases from the processed text.
+6. Create pdf containing key phrases and summary.
+7. Highlight key phrases in text-searchable pdf.
