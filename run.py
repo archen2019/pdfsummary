@@ -9,7 +9,7 @@ import re
 
 fileName = input('File Name: ')
 directory = ''
-if re.match(r':?/?([a-zA-Z0-9_-]+/)+', fileName):
+if re.match(r':?/?([.a-zA-Z0-9_-]+/)+', fileName):
     directory = fileName[:fileName.rfind('/')+1]
 
 numSentences = int(input('Number of sentences in summary: '))
