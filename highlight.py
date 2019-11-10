@@ -1,6 +1,6 @@
 import fitz
 
-def highlight(keyphrases):
+def highlight(keyphrases, directory):
     doc = fitz.open('searchable.pdf')
 
     for key in keyphrases:
@@ -9,4 +9,4 @@ def highlight(keyphrases):
             for i in instances:
                 page.addHighlightAnnot(i)
 
-    doc.save('highlighted.pdf', garbage=4, deflate=True, clean=True)
+    doc.save(directory + 'highlighted.pdf', garbage=4, deflate=True, clean=True)

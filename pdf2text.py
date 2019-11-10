@@ -23,11 +23,4 @@ def PDF2Text(pdf):
 
     writer.write('searchable.pdf')
 
-    # with open('fulltext.txt', 'w') as f:
-    #     f.write(''.join(txtlist))
-
-    # subprocess.run(['rm', 'cur_img.png'])
-    # subprocess.run(['rm', 'cur_txt.txt'])
-    # subprocess.run(['rm', 'cur_pdf.pdf'])
-
     return txtlist
