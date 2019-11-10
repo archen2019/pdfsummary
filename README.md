@@ -10,7 +10,7 @@ Python script that creates a text summary and finds key phrases of a PDF file.
 
 ## Installation
 
-To install `pdfsummary` from github:
+To install `pdfsummary` from GitHub:
 
 ```
 git clone https://github.com/archen2019/pdfsummary
@@ -42,7 +42,7 @@ This will create 4 files in the directory of the original PDF:
 
 ## Methodology
 
-1. Use `pdf2image` to convert the PDF into png files.
+1. Use `pdf2image` to convert the PDF into PNG images.
 2. Use `tesseract` to extract text from images and create a text-searchable copy of the original PDF.
 3. Process text to remove extra newlines and reconnect hyphenated words.
 4. Use `sumy` to generate a summary of the processed text.
