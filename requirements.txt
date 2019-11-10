@@ -1,0 +1,9 @@
+sumy
+pdfrw
+numpy
+PIL
+pdf2image
+fpdf
+pke
+fitz
+tesseract
