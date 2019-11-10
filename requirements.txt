@@ -5,5 +5,5 @@ pillow
 pdf2image
 fpdf
 git+https://github.com/boudinfl/pke.git
-fitz
+pymupdf
 tesseract
