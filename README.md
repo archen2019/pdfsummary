@@ -7,6 +7,7 @@ Python script that creates a text summary and finds key phrases of a PDF file.
 * [Installation](#installation)
 * [Usage](#usage)
 * [Methodology](#methodology)
+* [Citations](#citations)
 
 ## Installation
 
@@ -49,3 +50,7 @@ This will create 4 files in the directory of the original PDF:
 5. Use `pke` to generate key phrases from the processed text.
 6. Create pdf containing key phrases and summary.
 7. Highlight key phrases in text-searchable PDF.
+
+## Citations
+
+Boudin, Florian. “Pke: An Open Source Python-Based Keyphrase Extraction Toolkit.” Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: System Demonstrations, The COLING 2016 Organizing Committee, 2016, pp. 69–73. ACLWeb, https://www.aclweb.org/anthology/C16-2015.
