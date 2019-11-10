@@ -6,10 +6,11 @@ from makepdf import make_pdf
 from highlight import highlight
 
 fileName = input('File Name: ')
-numSentences = input('Number of sentences in summary: ')
-numKey = input('Number of key phrases: ')
+numSentences = int(input('Number of sentences in summary: '))
+numKey = int(input('Number of key phrases: '))
 text = PDF2Text(fileName)
 clean(text)
+print('---cleaned---')
 summarize('cleantext.txt', numSentences)
 print('---summarized---')
 keyphrases = get_key_phrases(numKey)

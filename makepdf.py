@@ -1,12 +1,12 @@
 from fpdf import FPDF
 
 def make_pdf(keyphrases):
-    with open('Summary.txt', 'r', encoding = 'utf-8') as f:
+    with open('summary.txt', 'r', encoding = 'utf-8') as f:
         text = f.read()
 
     pdf = FPDF()
     pdf.add_page()
-    pdf.add_font('DejaVu', '', 'fonts\\DejaVuSansCondensed.ttf', uni=True)
+    pdf.add_font('DejaVu', '', 'fonts/DejaVuSansCondensed.ttf', uni=True)
     pdf.set_font('DejaVu', '', 12)
 
     pdf.cell(40, 10, 'Key Phrases', align = 'C', ln = 2)

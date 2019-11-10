@@ -8,11 +8,11 @@ def hyphenRegex(text):
     return re.sub(r'[a-zA-Z]+-\s*\n[a-zA-Z]+', replace, text, flags=re.IGNORECASE)
 
 def clean(text):
-    newlines = text
+    newlines = []
 
-    for i in range(len(lines) - 1):
-        if lines[i].strip() or lines[i + 1].strip():
-            newlines.append(lines[i])
+    for i in range(len(text) - 1):
+        if text[i].strip() or text[i + 1].strip():
+            newlines.append(text[i])
 
     cleantext = hyphenRegex(''.join(newlines))
 

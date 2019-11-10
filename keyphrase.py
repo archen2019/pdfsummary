@@ -10,7 +10,7 @@ def get_key_phrases(numKey):
     keyphrases = [t[0] for t in keytuple]
 
     with open('keyphrases.txt', 'w') as f:
-        for key in keyprases:
+        for key in keyphrases:
             f.write(key)
 
     return keyphrases
