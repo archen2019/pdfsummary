@@ -1,12 +1,12 @@
 import fitz
 
-doc = fitz.open('searchable.pdf')
+def highlight(keyphrases):
+    doc = fitz.open('searchable.pdf')
 
-keywords = ['baby']
-for keyword in keywords:
-    for page in doc:
-        instances = page.searchFor(keyword)
-        for i in instances:
-            page.addHighlightAnnot(i)
+    for key in keyphrases:
+        for page in doc:
+            instances = page.searchFor(key)
+            for i in instances:
+                page.addHighlightAnnot(i)
 
-doc.save('highlighted.pdf', garbage=4, deflate=True, clean=True)
+    doc.save('highlighted.pdf', garbage=4, deflate=True, clean=True)

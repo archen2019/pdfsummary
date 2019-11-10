@@ -10,22 +10,15 @@ from sumy.utils import get_stop_words
 
 
 LANGUAGE = "english"
-SENTENCES_COUNT = 20
-# fileName = input("input name: ")
-fileName = 'cleantext.txt'
 
-if __name__ == "__main__":
-    # for links
-    # url = "https://en.wikipedia.org/wiki/Automatic_summarization"
-    # parser = HtmlParser.from_url(url, Tokenizer(LANGUAGE))
-    # or for plain text files
+def summarize(fileName, sentence_count):
     parser = PlaintextParser.from_file((fileName), Tokenizer(LANGUAGE))
     stemmer = Stemmer(LANGUAGE)
 
     summarizer = Summarizer(stemmer)
     summarizer.stop_words = get_stop_words(LANGUAGE)
 
-    with open('SumyResult.txt', 'w', encoding = 'utf-8') as f:
-        for sentence in summarizer(parser.document, SENTENCES_COUNT):
+    with open('summary.txt', 'w', encoding = 'utf-8') as f:
+        for sentence in summarizer(parser.document, sentence_count):
             f.write(str(sentence))
             f.write('\n')
