@@ -6,6 +6,7 @@ This is a Python script that creates a text summary of a given pdf file.
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Methodology](#methodology)
 
 ## Installation
 
