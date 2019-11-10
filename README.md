@@ -17,7 +17,7 @@ To install `pdfsummary` from GitHub:
 git clone https://github.com/archen2019/pdfsummary
 ```
 
-`pdfsummary` also needs the requirements listed in `requirements.txt`. To install, run the following:
+`pdfsummary` also needs the dependencies listed in `requirements.txt`. To install, run the following:
 
 ```
 pip install -r requirements.txt
