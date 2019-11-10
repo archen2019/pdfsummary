@@ -4,6 +4,6 @@ numpy
 PIL
 pdf2image
 fpdf
-pke
+git+https://github.com/boudinfl/pke.git
 fitz
 tesseract
