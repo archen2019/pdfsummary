@@ -1,7 +1,0 @@
-reader
-sentences
-stress position
-information
-material
-writer
-structure
