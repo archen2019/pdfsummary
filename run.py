@@ -15,6 +15,7 @@ if re.match(r':?/?([a-zA-Z0-9_-]+/)+', fileName):
 numSentences = int(input('Number of sentences in summary: '))
 numKey = int(input('Number of key phrases: '))
 text = PDF2Text(fileName)
+print('---text loaded---')
 clean(text)
 print('---cleaned---')
 summarize('cleantext.txt', numSentences, directory)
