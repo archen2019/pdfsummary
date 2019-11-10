@@ -1,7 +1,7 @@
 sumy
 pdfrw
 numpy
-PIL
+pillow
 pdf2image
 fpdf
 git+https://github.com/boudinfl/pke.git
