@@ -1,6 +1,6 @@
 import pke
 
-def get_key_phrases(numKey):
+def get_key_phrases(numKey, directory):
     extractor = pke.unsupervised.TopicRank()
     extractor.load_document(input='cleantext.txt', language='en')
     extractor.candidate_selection()
@@ -9,7 +9,7 @@ def get_key_phrases(numKey):
 
     keyphrases = [t[0] for t in keytuple]
 
-    with open('keyphrases.txt', 'w') as f:
+    with open(directory + 'keyphrases.txt', 'w') as f:
         for key in keyphrases:
             f.write(key + '\n')
 

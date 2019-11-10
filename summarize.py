@@ -11,14 +11,14 @@ from sumy.utils import get_stop_words
 
 LANGUAGE = "english"
 
-def summarize(fileName, sentence_count):
+def summarize(fileName, sentence_count, directory):
     parser = PlaintextParser.from_file((fileName), Tokenizer(LANGUAGE))
     stemmer = Stemmer(LANGUAGE)
 
     summarizer = Summarizer(stemmer)
     summarizer.stop_words = get_stop_words(LANGUAGE)
 
-    with open('summary.txt', 'w', encoding = 'utf-8') as f:
+    with open(directory + 'summary.txt', 'w', encoding = 'utf-8') as f:
         for sentence in summarizer(parser.document, sentence_count):
             f.write(str(sentence))
             f.write('\n')

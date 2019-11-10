@@ -1,7 +1,7 @@
 from fpdf import FPDF
 
-def make_pdf(keyphrases):
-    with open('summary.txt', 'r', encoding = 'utf-8') as f:
+def make_pdf(keyphrases, directory):
+    with open(directory + 'summary.txt', 'r', encoding = 'utf-8') as f:
         text = f.read()
 
     pdf = FPDF()
@@ -16,4 +16,4 @@ def make_pdf(keyphrases):
     pdf.add_page()
     pdf.cell(40, 10, 'Summary', align = 'C', ln = 2)
     pdf.multi_cell(0, 10, text, align = 'L')
-    pdf.output('Summary.pdf', 'F')
+    pdf.output(directory + 'Summary.pdf', 'F')
