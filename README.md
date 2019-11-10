@@ -24,9 +24,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-To run `pdfsummary`, simply run the file `run.py`. Then, enter the file name of the pdf, the number of sentences in the summary, and the number of keywords. 
+To run `pdfsummary`, simply enter the cloned folder and run the file `run.py`. Then, enter the file name of the pdf, the number of sentences in the summary, and the number of keywords. 
 
 ```
+$ cd pdfsummary
 $ python run.py
 File Name: [FILE-NAME]
 Number of Sentences in summary: [NUM-SENTENCES]
