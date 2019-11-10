@@ -30,7 +30,7 @@ To run `pdfsummary`, simply enter the cloned folder and run the file `run.py`. T
 $ cd pdfsummary
 $ python run.py
 File Name: [FILE-NAME]
-Number of Sentences in summary: [NUM-SENTENCES]
+Number of sentences in summary: [NUM-SENTENCES]
 Number of key phrases: [NUM-PHRASES]
 ```
 
