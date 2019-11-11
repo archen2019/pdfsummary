@@ -2,6 +2,8 @@
 
 Python script that creates a text summary of a PDF file.
 
+Created for HackPrinceton2019.
+
 ## Table of Contents
 
 * [Installation](#installation)
