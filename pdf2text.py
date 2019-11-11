@@ -14,7 +14,7 @@ def PDF2Text(pdf):
         img = img.convert('LA')
         img.save('cur_img.png')
         subprocess.run(['tesseract', 'cur_img.png', 'cur_txt', '--dpi', '125'])
-        with open('cur_txt.txt', 'r') as curfile:
+        with open('cur_txt.txt', 'r', encoding = 'utf-8') as curfile:
             txtlist.extend(curfile.readlines())
             del txtlist[-1]
             txtlist.append('\n')

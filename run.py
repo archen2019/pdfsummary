@@ -6,6 +6,7 @@ from makepdf import make_pdf
 from highlight import highlight
 import subprocess
 import re
+import platform
 
 fileName = input('File Name: ')
 directory = ''
@@ -26,9 +27,16 @@ make_pdf(keyphrases, directory)
 print('---pdf made---')
 highlight(keyphrases, directory)
 print('---pdf highlighted---')
-subprocess.run(['rm', 'cur_img.png'])
-subprocess.run(['rm', 'cur_txt.txt'])
-subprocess.run(['rm', 'cur_pdf.pdf'])
-subprocess.run(['rm', 'cleantext.txt'])
-subprocess.run(['rm', 'searchable.pdf'])
+if platform.system() == 'Windows':
+    subprocess.run(['del', 'cur_img.png'], shell = True)
+    subprocess.run(['del', 'cur_txt.txt'], shell = True)
+    subprocess.run(['del', 'cur_pdf.pdf'], shell = True)
+    subprocess.run(['del', 'cleantext.txt'], shell = True)
+    subprocess.run(['del', 'searchable.pdf'], shell = True)
+else:
+    subprocess.run(['rm', 'cur_img.png'])
+    subprocess.run(['rm', 'cur_txt.txt'])
+    subprocess.run(['rm', 'cur_pdf.pdf'])
+    subprocess.run(['rm', 'cleantext.txt'])
+    subprocess.run(['rm', 'searchable.pdf'])
 print('done')
